@@ -7,6 +7,5 @@ chapter: true
 ### Chapter 1
 
 # Basics
- Schedule stuff
+ Schedule stuff and a bit of intro about what this part is about
 
-{{< loom ca6f18510baf40ab9d7891c638dd332f >}}
