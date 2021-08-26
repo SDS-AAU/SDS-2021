@@ -8,4 +8,5 @@ chapter: true
 
 # Basics
  Schedule stuff and a bit of intro about what this part is about
+ And now we add a little more.
 
