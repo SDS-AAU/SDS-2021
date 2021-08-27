@@ -3,8 +3,6 @@ title: Semester Schedule
 weight: 4
 ---
 
-# Schedule and Calendar:
-
 ## M1: Week 35-39
 
 ### Topics
