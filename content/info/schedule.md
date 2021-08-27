@@ -1,48 +1,60 @@
 ---
-title: Schedule
-weight: 1
-disableToc: true
+title: Semester Schedule
+weight: 4
 ---
 
-## Schedule and Calendar:
-### M1: Week 36-41
+# Schedule and Calendar:
 
-* Key Dates
-  * In-person workshop days: W37 - 08.09.2020, W38 - 18.09.2020
-  * M1 individual assignment 1: hand-in deadline 10.09.2020 23:59:00 at the latest (Peergrade)
-  * M1 individual assignment 2: hand-in deadline 22.09.2020 23:59:00 at the latest (Peergrade)
-  * Group assignment: 25.09.2020 - 01.10.2020 (Digital Eksamen)
-  
-* Topics
-   * W 36: Introduction & landing
-   * W 37: Data Manipulation, Exploratory Data Analysis (EDA), Data Visualization
-   * W 38: Unsupervised Machine Learning (UML)
-   * W 39: Supervised Machine Learning (SML)
-   * W 40: Project work
+## M1: Week 35-39
 
-### M2: Week 41-46
+### Topics
 
-* Key Dates
-  * In-person workshop days: W42 - 12.10.2020, W43 - 22.10.2020
-  * M2 individual assignment 1: hand-in deadline 15.10.2020 23:59:00 at the latest (Peergrade)
-  * M2 individual assignment 2: hand-in deadline 28.10.2020 23:59:00 at the latest (Peergrade)
-  * Group assignment: 30.10.2020-05.11.2020 (Digital Eksamen)
-  
-* Topics
-   * W 41: Introduction to Network Analysis
-   * W 42: Introduction to Natural-Language-Processing (NLP)
-   * W 44: Advanced applications in Network and Text Analysis
-   * W 45: Project work
+* W 35: Introduction & landing
+* W 36: Data Manipulation, Exploratory Data Analysis (EDA), Data Visualization
+* W 37: Unsupervised Machine Learning (UML)
+* W 38: Supervised Machine Learning (SML)
+* W 39: Project work + exam
+
    
-### M3: Week 46-51
+### Key Dates
 
-* Key Dates
-  * In-person workshop days: W47 - 16.11.2020 + 19.12.2020, W48 - 26.11.2020
-  * M3 individual assignment 1: hand-in deadline 01.12.2020 23:59:00 at the latest (Peergrade)
-  * Group assignment: 03.12.2020-09.12.2020 (Digital Eksamen)
+* Individual assignment 
+   * 1: 08.-13.09.2021, 23:59:00 at the latest (Peergrade) 
+   * 2: 15.-20.09.2021, 23:59:00 at the latest (Peergrade)
+* Group assignment: 21.-27.09.2021 (Digital Eksamen)
+* Final exam: 29.09.2021
   
-* Topics
-   * W 46: Introduction to Artificial Neural Networks (ANN) & Deep Learning (DL)
-   * W 47: Neural networks for spatial data: Recurrent Neural Networks (RNN)
-   * W 48: Neural Networks for sequential data: Recurrent Neural networks (RNN & LSTM)
-   * W 49&50: AdvancedDL applications & project work
+
+## M2: Week 40-44
+
+### Topics
+
+* W 40: Introduction to Network Analysis
+* W 41: Introduction to Natural-Language-Processing (NLP)
+* W 43: Advanced applications in Network and Text Analysis
+* W 44: Project work + exam
+   
+### Key Dates
+
+* M2 individual assignment 
+   * 1: 04.-07.10.2021, 23:59:00 at the latest (Peergrade)
+   * 2: 12.-15.10.2021, 23:59:00 at the latest (Peergrade)
+* Group assignment: 25.10.-01.11.2021 (Digital Eksamen)
+* Final exam: 03.11.2021
+  
+## M3: Week 45-48
+
+### Topics
+
+* W 45: Introduction to Artificial Neural Networks (ANN) & Deep Learning (DL)
+* W 46: Neural networks for spatial data: Recurrent Neural Networks (RNN)
+* W 47: Neural Networks for sequential data: Recurrent Neural networks (RNN & LSTM)
+* W 48: project work + exam
+
+### Key Dates
+
+* M3 individual assignment 
+   * 1: 17.-22.11.2021 23:59:00 at the latest (Peergrade)
+* Group assignment: 24.11.-01.12.2020 (Digital Eksamen)
+* Final exam: 03.12.2021
+  
