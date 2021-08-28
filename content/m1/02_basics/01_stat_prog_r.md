@@ -6,7 +6,9 @@ disableToc: true
 
 {{< loom 8bb0ed1ce1f244b39243cbbdca8726ed>}}
 
-![](/images/colab.svg)
+* [{{< awesome fas fa-laptop-code >}} Open in Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/DS_basics_basics_R.ipynb#offline=true&sandboxMode=true)
+
+* [{{< awesome fas fa-book-open >}} HTML Notebook](https://sds-aau.github.io/SDS-master/M1/notebooks/DS_basics_basics_R.nb.html)
 
 <!-- 
 # Slides
