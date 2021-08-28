@@ -1,6 +1,6 @@
 ---
 title: Basics of statistical programming and data
-weight: 1
+weight: 2
 disableToc: true
 ---
 
