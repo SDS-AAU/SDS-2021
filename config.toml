@@ -1,5 +1,4 @@
-baseURL = "SDS2021-test/"
-#https://sds-aau.github.io/SDS2021-test
+baseURL = "https://sds-aau.github.io/SDS2021-test/"
 staticDir = 'static'
 languageCode = "en-US"
 defaultContentLanguage = "en"
