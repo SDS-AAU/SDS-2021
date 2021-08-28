@@ -1,8 +1,10 @@
-baseURL = "https://sds-aau.github.io/SDS2021-test/"
+baseURL = "SDS2021-test/"
+#https://sds-aau.github.io/SDS2021-test
+staticDir = 'static'
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
-title = "ocial Data Science 2021"
+title = "Social Data Science 2021"
 theme = "hugo-theme-learn"
 themesdir = "themes"
 metaDataFormat = "yaml"
@@ -24,13 +26,13 @@ defaultContentLanguageInSubdir= true
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
-[Languages]
-[Languages.en]
-title = "Documentation for Hugo Learn Theme"
-weight = 1
-languageName = "English"
-landingPageURL = "/en"
-landingPageName = "<i class='fas fa-home'></i> Home"
+#[Languages]
+#[Languages.en]
+#title = "Documentation for Hugo Learn Theme"
+#weight = 1
+#languageName = "English"
+#landingPageURL = "/en"
+#landingPageName = "<i class='fas fa-home'></i> Home"
 
 #[[Languages.en.menu.shortcuts]]
 #name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
