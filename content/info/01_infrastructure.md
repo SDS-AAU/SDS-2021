@@ -7,5 +7,5 @@ weight: 1
 : Join our MS our teams channel to get updates from us, Q&A, and talk to your peers.
 * [Moodle](https://www.moodle.aau.dk/course/view.php?id=39082)
 : We will not use it from now on for content, but for the sake of completeness. However, you will still find your calendar there and we may use it from time to time to send out mass-mails to you all.
-* [Datacamp](https://www.datacamp.com/groups/shared_links/699c2b8472e2ce943916a217d51aed46d3fe74c5b84d23d615b7eeb1a6e185b6)
+* [Datacamp](https://www.datacamp.com/groups/shared_links/23f1f538d04419062d4fd0e7a3663cbad212fd7512630f30a874d07a2f317dda)
 : Get access to all the Datacamp premium content for free to facilitate your data science journey. Use your **AAU mail** here when signing up.
