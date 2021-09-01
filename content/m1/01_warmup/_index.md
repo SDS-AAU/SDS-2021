@@ -1,5 +1,5 @@
 ---
-title: M1 Warmup - W35
+title: M1 Warmup
 weight: 1
 disableToc: true
 ---
