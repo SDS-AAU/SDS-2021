@@ -1,5 +1,5 @@
 ---
-title: "Basics of statistical programming and data - W35"
+title: Basics of statistical programming and data (W35)
 weight: 2
 disableToc: true
 ---
