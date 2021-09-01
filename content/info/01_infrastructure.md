@@ -15,4 +15,3 @@ weight: 1
 # Adittional Infrastructure used
 
 * [Github](https://github.com/) Provides internet hosting for software development and version control using Git. It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features. It is also commonly used to host open-source projects, including data science projects. If you do not have it already, you are advice to create an account to manage and showcase your work during this semester. A brief introduction into the main functionalists can be found [here](https://guides.github.com/activities/hello-world/).
-
