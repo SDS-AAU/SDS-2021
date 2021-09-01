@@ -1,5 +1,5 @@
 ---
-title: Basics of statistical programming and data
+title: Basics of statistical programming and data - W 35
 weight: 2
 disableToc: true
 ---
