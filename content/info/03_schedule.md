@@ -1,11 +1,13 @@
 ---
 title: Semester Schedule
 weight: 4
+
 ---
 
 ## M1: Week 35-39
 
 ### Topics
+
 
 * W 35: Introduction & landing
 * W 36: Data Manipulation, Exploratory Data Analysis (EDA), Data Visualization
