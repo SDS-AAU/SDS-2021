@@ -1,6 +1,6 @@
 ---
 title: M1 checklist
-weight: 3
+weight: 1
 chapter: false
 ---
 
