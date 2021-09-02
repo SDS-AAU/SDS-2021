@@ -32,7 +32,11 @@ These pieces of work can be seen as main references for data science using R and
 
 # Further Ressources
 
-## Tools & Notebooks
+## Community
+
+* [Kaggle](https://www.kaggle.com/): Crowdsourced data science challanges. Nowadays also provides a vivid community where you find datasets, notebooks for all kind of data science exercises. Also provides their own cloud-based service co create and run computational notebooks.
+
+## Tools & Helpers
 
 * `.rmd` to `ipynb` converter [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SDS-AAU/M1-2019/blob/master/notebooks/converter_rmd_to_jupyter.ipynb#offline=true&sandboxMode=true)
 * [`ipynb`to `pdf` converter](https://htmtopdf.herokuapp.com/ipynbviewer/)
