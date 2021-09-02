@@ -49,5 +49,5 @@ These pieces of work can be seen as main references for data science using R and
 
 ## Tools & Helpers
 
-* `.rmd` to `ipynb` converter [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SDS-AAU/M1-2019/blob/master/notebooks/converter_rmd_to_jupyter.ipynb#offline=true&sandboxMode=true)
+* [`.rmd` to `ipynb` converter](https://colab.research.google.com/github/SDS-AAU/M1-2019/blob/master/notebooks/converter_rmd_to_jupyter.ipynb#offline=true&sandboxMode=true)
 * [`ipynb`to `pdf` converter](https://htmtopdf.herokuapp.com/ipynbviewer/)
