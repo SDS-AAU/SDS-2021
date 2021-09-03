@@ -40,7 +40,7 @@ These pieces of work can be seen as main references for data science using R and
    * [Kaggle](https://www.kaggle.com/): Also provides their own cloud-based service co create and run computational notebooks. Convenient, unlimited, but a bit slow (Pyhton, r ).
 * Instance based:
    * [UCloud](https://cloud.sdu.dk): New cloud infrastructure provided by AAU, AU, SDU
-   * [AAU Strato](https://strato.claaudia.aau.dk/): AAU CLAUDIA infratructure. VEry powerful, but access needs a bit of experience with working via terminal.
+   * [AAU Strato](https://strato.claaudia.aau.dk/): AAU CLAUDIA infratructure. Very powerful, but access needs a bit of experience with working via terminal.
 
 
 ## Community
