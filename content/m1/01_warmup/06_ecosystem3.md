@@ -12,6 +12,27 @@ disableToc: true
 
 
 
+# Test
+
+## Slides 2
+
+{{< tabs >}}
+{{% tab name="python" %}}
+```python
+print("Hello World!")
+```
+{{% /tab %}}
+{{% tab name="R" %}}
+```R
+> print("Hello World!")
+```
+{{% /tab %}}
+{{% tab name="Bash" %}}
+```Bash
+echo "Hello World!"
+```
+{{% /tab %}}
+{{< /tabs >}}
 
 <!--
 
