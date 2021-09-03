@@ -14,6 +14,7 @@ The presentations have been recorded as part of a workshop on Data Science for B
 * Data Science in business I-III [Slides](https://sdc-dataintelligence-slides-lfcnv834m.now.sh/?fbclid=IwAR2VGJqTma_ReJUqRZfV5KRz-2jHD1C009kjcmHSn2n7iST30BxC0V5oDj0#slide=1)
 
 ## Introduction to the Data Science Ecosystem
+
 Overview of software, platforms and most other things you are going to work with at SDS.
 You only have to work in one of the 2 languages but it's still nice to know how the other ecosystem looks like...
 
