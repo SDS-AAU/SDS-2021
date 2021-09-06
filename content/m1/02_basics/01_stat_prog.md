@@ -17,14 +17,16 @@ This session is a basic introduction to statistical programming as well as a sho
   {{< loom b7d14023383643b2b1dce248ed28ee68>}}
   
   <h2>Slides</h2>  
+  Click on slides for navigation. Fullscreen slides <a href="https://sds-aau.github.io/SDS-master/M1/notebooks/DS_basics_data.html" target="_blank">available here</a>
+    
   {{< IncludeSlides "https://sds-aau.github.io/SDS-master/M1/notebooks/DS_basics_data.html" >}}
-  Fullscreen slides <a href="https://sds-aau.github.io/SDS-master/M1/notebooks/DS_basics_data.html">here</a>
+
 {{< /tab >}}
 
 
 {{< tab name="R Application - Statistical Programming">}}
 <div>
-  Follow along: 
+   <h3>Follow along</h3>
   <ul>
     <li> {{< awesome fas fa-laptop-code >}} <a href="https://sds-aau.github.io/SDS-master/M1/notebooks/DS_basics_basics_R.nb.html" target="_blank">HTML Notebook</a> </li>
     <li> {{< awesome fas fa-laptop-code >}} <a href="https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/DS_basics_basics_R.ipynb" target="_blank">Colab Notebook</a> </li>
@@ -38,7 +40,7 @@ This session is a basic introduction to statistical programming as well as a sho
   
 {{< tab name="Python Application - Statistical Programming">}}
 <div>
-  Follow along: 
+   <h3>Follow along</h3> 
   <ul>
     <li> {{< awesome fas fa-laptop-code >}} <a href="https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/DS_basics_data_manipulation_application_py.ipynb" target="_blank">Colab Notebook</a> </li>
   </ul>
