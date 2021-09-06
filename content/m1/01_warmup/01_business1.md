@@ -4,12 +4,12 @@ weight: 2
 disableToc: true
 ---
 
-{{< tabs >}}
-
 {{% notice tip %}} Use the tabs to access content
 {{% /notice %}}
 
 This Video series contains a 3-part talk by Daniel and Roman on data science applications in business
+
+{{< tabs >}}
 
 {{< tab name="1 - Current state">}}
 <div>
