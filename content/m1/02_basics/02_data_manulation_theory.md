@@ -1,5 +1,5 @@
 ---
-title: "Data Manipulation Basics"
+title: "Basius Data Manipulation"
 weight: 2
 disableToc: true
 ---
@@ -22,6 +22,7 @@ This session introduces some fundamental concepts of data manipulation and Explo
 {{< /tab >}}
 
 
+
 {{< tab name="R Application - Data Manipulation">}}
 <div>
    <h3>Follow along</h3>
@@ -29,18 +30,19 @@ This session introduces some fundamental concepts of data manipulation and Explo
     <li> {{< awesome fas fa-laptop-code >}} <a href="https://sds-aau.github.io/SDS-master/M1/notebooks/DS_basics_data_manipulation_application_R.nb.html" target="_blank">HTML Notebook</a> </li>
     <li> {{< awesome fas fa-laptop-code >}} <a href="https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/DS_basics_data_manipulation_application_R.ipynb" target="_blank">Colab Notebook</a> </li>
   </ul>
-
-  <h2>Video</h2>
-  {{< loom 06497181712a4fbf9bf4443d85926a35>}}
   
-  <h3>Recap Exercises</h2>
+  <h3>Complementary Exercises</h2>
   <ul>
     <li> {{< awesome fas fa-laptop-code >}} <a href="https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/exercises/DS_basics_data_manipulation_application_R_ex1.ipynb">1 Basics</a> </li>
     <li> {{< awesome fas fa-laptop-code >}} <a href="https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/exercises/DS_basics_data_manipulation_application_R_ex2.ipynb" target="_blank">2 Joins</a> </li>
     <li> {{< awesome fas fa-laptop-code >}} <a href="https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/exercises/DS_basics_data_manipulation_application_R_ex3.ipynb" target="_blank">3 Challange</a> </li>
   </ul>
+
+  <h2>Video</h2>
+  {{< loom 06497181712a4fbf9bf4443d85926a35>}}
 </div>
 {{< /tab >}}
+
 
   
 {{< tab name="Python Application - Data Manipulation">}}

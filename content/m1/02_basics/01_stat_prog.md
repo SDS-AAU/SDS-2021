@@ -1,6 +1,6 @@
 ---
-title: "Statistical Programming Basics"
-weight: 2
+title: "Basics Statistical Programming"
+weight: 1
 disableToc: true
 ---
 

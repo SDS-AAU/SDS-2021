@@ -1,6 +1,6 @@
 ---
 title: Basics of Statistical Programming and Data Manipulation (W35-36)
-weight: 2
+weight: 1
 disableToc: true
 ---
 
