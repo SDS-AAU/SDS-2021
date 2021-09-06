@@ -20,8 +20,8 @@ This session is a basic introduction to statistical programming as well as a sho
   Use arrows keys on keyboardto navigate. Alternatively fullscreen slides <a href="https://sds-aau.github.io/SDS-master/M1/notebooks/DS_basics_data.html" target="_blank">available here</a>
     
   {{< IncludeSlides "https://sds-aau.github.io/SDS-master/M1/notebooks/DS_basics_data.html" >}}
-
 {{< /tab >}}
+
 
 
 {{< tab name="R Application - Statistical Programming">}}
@@ -36,6 +36,7 @@ This session is a basic introduction to statistical programming as well as a sho
   {{< loom 8bb0ed1ce1f244b39243cbbdca8726ed>}} 
 </div>
 {{< /tab >}}
+
 
   
 {{< tab name="Python Application - Statistical Programming">}}
