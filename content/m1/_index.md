@@ -17,7 +17,6 @@ Click on the **to do** for the week to see what you should do to keep up with th
 
 * W 35: Introduction & landing
 {{%expand "Weekly to do" %}}
-
 - [X] **Introduction to R & Python** (Datacamp, both necessary if no prior experience)
    * [Intro to Python](https://learn.datacamp.com/courses/intro-to-python-for-data-science) and/or [R](https://learn.datacamp.com/courses/free-introduction-to-r)
    * [Intro to [R](https://learn.datacamp.com/courses/free-introduction-to-r)
@@ -32,11 +31,8 @@ Click on the **to do** for the week to see what you should do to keep up with th
       * [Correlation & regression](https://learn.datacamp.com/courses/correlation-and-regression-in-r)
 - [X] **Course Material** (Watch videos, study/run notebooks, solve provided exercises, optimally study sugested further material)
    * [Warmup]({{< ref "m1/01_warmup/_index.md" >}})
-   * [basics]({{< ref "m1/02_basics/_index.md" >}})
-
+   * [basics]({{< ref "m1/02_basics/01_stat_prog.md" >}})
 {{% /expand%}}
-
-
 
 * W 36: Data Manipulation, Exploratory Data Analysis (EDA), Data Visualization
 * W 37: Unsupervised Machine Learning (UML)
