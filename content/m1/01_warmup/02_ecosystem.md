@@ -39,5 +39,4 @@ This Video series contains an introduction to the data science ecosystem, includ
 </div>
 {{< /tab >}}
 
-
 {{< /tabs >}}
