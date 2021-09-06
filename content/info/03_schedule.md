@@ -8,7 +8,6 @@ weight: 4
 
 ### Topics
 
-
 * W 35: Introduction & landing
 * W 36: Data Manipulation, Exploratory Data Analysis (EDA), Data Visualization
 * W 37: Unsupervised Machine Learning (UML)

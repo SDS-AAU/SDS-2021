@@ -12,6 +12,6 @@ weight: 1
 * [Datacamp](https://www.datacamp.com/groups/shared_links/699c2b8472e2ce943916a217d51aed46d3fe74c5b84d23d615b7eeb1a6e185b6)
 : Get access to all the Datacamp premium content for free to facilitate your data science journey. Use your **AAU mail** here when signing up.
 
-# Adittional Infrastructure used
+## Adittional Infrastructure used
 
 * [Github](https://github.com/) Provides internet hosting for software development and version control using Git. It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features. It is also commonly used to host open-source projects, including data science projects. If you do not have it already, you are advice to create an account to manage and showcase your work during this semester. A brief introduction into the main functionalists can be found [here](https://guides.github.com/activities/hello-world/).
