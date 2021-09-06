@@ -33,7 +33,7 @@ This session introduces some fundamental concepts of data manipulation and Explo
   
   <h3>Complementary Exercises</h2>
   <ul>
-    <li> {{< awesome fas fa-laptop-code >}} <a href="https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/exercises/DS_basics_data_manipulation_application_R_ex1.ipynb">1 Basics</a> </li>
+    <li> {{< awesome fas fa-laptop-code >}} <a href="https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/exercises/DS_basics_data_manipulation_application_R_ex1.ipynb" target="_blank">1 Basics</a> </li>
     <li> {{< awesome fas fa-laptop-code >}} <a href="https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/exercises/DS_basics_data_manipulation_application_R_ex2.ipynb" target="_blank">2 Joins</a> </li>
     <li> {{< awesome fas fa-laptop-code >}} <a href="https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/exercises/DS_basics_data_manipulation_application_R_ex3.ipynb" target="_blank">3 Challange</a> </li>
   </ul>
