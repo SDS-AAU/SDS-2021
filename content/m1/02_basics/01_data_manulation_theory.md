@@ -4,8 +4,10 @@ weight: 2
 disableToc: true
 ---
 
-This session introduces some fundamental concepts of data manipulation and Exploratory Data Analysis. We will again start with a theoretical lecture on fundamental concepts and techniques in data manipulation, and afterwards again explore them in R and Python specific applications. These applications are complemented by recap exercises to test yourself.
+{{% notice tip %}} Use the tabs to access content. Theory part is general, R & Python application part language specific.
+{{% /notice %}}
 
+This session introduces some fundamental concepts of data manipulation and Exploratory Data Analysis. We will again start with a theoretical lecture on fundamental concepts and techniques in data manipulation, and afterwards again explore them in R and Python specific applications. These applications are complemented by recap exercises to test yourself.
 
 {{< tabs >}}
 
