@@ -1,15 +1,15 @@
 ---
-title: Intro Talk: Data Science in business
+title: Intro Talk - Data Science in business
 weight: 2
 disableToc: true
 ---
 
 {{< tabs >}}
 
-{{< tab name="HTML">}}
+{{< tab name="1 - Current state">}}
 <div>
   <h2>Data Science in business 1 - Current state</h2>
-  {{< loom eb94254c517b40f4a8a2916258c4b92f>}}
+  {{< panopto "https://cbs.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dc8a48b8-4431-4589-ab4d-ac2300c433f6&fbclid=IwAR0QUrP9x8dc02a_RdjVC3PRAzfmkv7VLdS0_g0n6q2hBrD21gEnEgH6-JM">}}
 </div>
 {{< /tab >}}
 
