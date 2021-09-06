@@ -32,7 +32,7 @@ This is also **markdown**
 {{< loom eb94254c517b40f4a8a2916258c4b92f>}}
 {{% /tab %}}
 
-{{< tab name="Video all", codelang = "HTML">}}
+{{< tab name="Video all">}}
 <div>
   <h3>Video</h3>
   {{< loom eb94254c517b40f4a8a2916258c4b92f>}}
