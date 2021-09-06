@@ -4,17 +4,16 @@ weight: 2
 disableToc: true
 ---
 
-This Video series contains a 3-part talk by Daniel and Roman on data science applications in business
-
-{{% notice info %}}
-Follow along: 
-* [{{< awesome fas fa-laptop-code >}} Slides DS in business](https://sdc-dataintelligence-slides-lfcnv834m.now.sh/?fbclid=IwAR2VGJqTma_ReJUqRZfV5KRz-2jHD1C009kjcmHSn2n7iST30BxC0V5oDj0#slide=1)
-{{% /notice %}}
-
-{{< tabs >}}
-
 {{% notice tip %}} Use the tabs to access content
 {{% /notice %}}
+
+This Video series contains a 3-part talk by Daniel and Roman on data science applications in business
+
+**Follow along:**
+* [{{< awesome fas fa-laptop-code >}} Slides DS in business](https://sdc-dataintelligence-slides-lfcnv834m.now.sh/?fbclid=IwAR2VGJqTma_ReJUqRZfV5KRz-2jHD1C009kjcmHSn2n7iST30BxC0V5oDj0#slide=1)
+
+
+{{< tabs >}}
 
 {{< tab name="1 - Current state">}}
 <div>
