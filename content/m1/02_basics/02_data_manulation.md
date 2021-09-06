@@ -1,5 +1,5 @@
 ---
-title: "Basius Data Manipulation"
+title: "Basics Data Manipulation"
 weight: 2
 disableToc: true
 ---
