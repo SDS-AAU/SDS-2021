@@ -7,7 +7,7 @@ disableToc: true
 {{% notice tip %}} Use the tabs to access content. Theory part is general, R & Python application part language specific.
 {{% /notice %}}
 
-This chapter is a basic introduction to statistical programming as well as a short brush-up on data more generally. For some, this will be "old news", but many will certainly benefit from reviewing this material.
+This session is a basic introduction to statistical programming as well as a short brush-up on data more generally. For some, this will be "old news", but many will certainly benefit from reviewing this material. We start with a generall theory lecture on data structures and properties, and then dive into R and Python specific applications of statistical programming.
 
 
 {{< tabs >}}
