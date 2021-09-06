@@ -32,12 +32,13 @@ This is also **markdown**
 {{< loom eb94254c517b40f4a8a2916258c4b92f>}}
 {{% /tab %}}
 
-{{< tab name="Video all", codelang = "HTML"" >}}
+{{< tab name="Video all", codelang = "HTML">}}
 <div>
   <h3>Video</h3>
   {{< loom eb94254c517b40f4a8a2916258c4b92f>}}
   <h3>Slides</h3>
-	
+  test test test
+	{{< gslides src="https://docs.google.com/presentation/d/e/2PACX-1vRPaNS3wSzX2ECxOw79LzazEFih4kKc4pWOy1cK5558JhBJMUo8Ib2Jh9MVv4Xjbd29PYwX-u_MlEwx/embed?start=false&loop=false&delayms=3000" >}}
 </div>
 {{< /tab >}}
 
