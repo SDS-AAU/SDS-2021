@@ -40,7 +40,7 @@ This chapter is a basic introduction to statistical programming as well as a sho
 <div>
   Follow along: 
   <ul>
-    <li> {{< awesome fas fa-laptop-code >}} <"https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/DS_basics_data_manipulation_application_py.ipynb" target="_blank">Colab Notebook</a> </li>
+    <li> {{< awesome fas fa-laptop-code >}} <a href="https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/DS_basics_data_manipulation_application_py.ipynb" target="_blank">Colab Notebook</a> </li>
   </ul>
 
   <h2>Video Part 1</h2>
