@@ -29,10 +29,14 @@ This is also **markdown**
 {{% /tab %}}
 
 {{% tab name="Tab 3" %}}
-This is also **markdown** with embedded video
-
 {{< loom eb94254c517b40f4a8a2916258c4b92f>}}
 {{% /tab %}}
+
+{{< tab name="HTML" >}}
+<div>
+{{< loom eb94254c517b40f4a8a2916258c4b92f>}}
+</div>
+{{< /tab >}}
 
 {{< /tabs >}}
 
