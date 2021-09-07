@@ -35,6 +35,16 @@ Click on the **to do** for the week to see what you should do to keep up with th
 {{% /expand%}}
 
 * W 36: Data Manipulation, Exploratory Data Analysis (EDA), Data Visualization
+{{%expand "Weekly to do" %}}
+- [X] **Continue with the Course material** (Datacamp, both necessary if no prior experience)
+   * [Statistical Programming]({{< ref "m1/02_basics/01_stat_prog.md" >}})
+   * [Data Manipulation]({{< ref "m1/02_basics/02_data_manipulation.md" >}})
+   * [Data Visualization]({{< ref "m1/02_basics/03_data_visualization.md" >}})
+- [X] **Datacamp Courses of your Choice** (For instance Pandas or Tidyverse practice)
+- [X] **1st Workshop**
+- [X] **1st Peergrade Assignment**
+{{% /expand%}}
+
 * W 37: Unsupervised Machine Learning (UML)
 * W 38: Supervised Machine Learning (SML)
 * W 39: Project work + exam
