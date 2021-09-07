@@ -29,9 +29,9 @@ Click on the **to do** for the week to see what you should do to keep up with th
       * [Introduction to data in R](https://learn.datacamp.com/courses/introduction-to-data-in-r)
       * [Foundation of probability](https://learn.datacamp.com/courses/foundations-of-probability-in-r); 
       * [Correlation & regression](https://learn.datacamp.com/courses/correlation-and-regression-in-r)
-- [X] **Course Material** (Watch videos, study/run notebooks, solve provided exercises, optimally study sugested further material)
+- [X] **Course Material** (Watch videos, study/run notebooks, solve provided exercises, optimally study suggested further material)
    * [Warmup]({{< ref "m1/01_warmup/_index.md" >}})
-   * [basics]({{< ref "m1/02_basics/01_stat_prog.md" >}})
+   * [basics]({{< ref "m1/02_basics/01_stat_prog.md" >}}): Theory for all, afterwards feel free to choose R or Python track
 {{% /expand%}}
 
 * W 36: Data Manipulation, Exploratory Data Analysis (EDA), Data Visualization
