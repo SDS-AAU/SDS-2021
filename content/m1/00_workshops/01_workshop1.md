@@ -5,9 +5,9 @@ weight: 2
 disableToc: true
 ---
 
-![](https://openpolicing.stanford.edu/img/logo_large_w_padding.png)
+![](https://openpolicing.stanford.edu/img/logo_large_w_padding.png?width=20pc)
 
-In this workshop we are going to work with the Open Policing Dataset. Below you will find 2 notebooks where this dataset (Rhode Island) has been explored.
+In this workshop we are going to work with the [Open Policing Dataset](https://openpolicing.stanford.edu/). Below you will find 2 notebooks where this dataset (Rhode Island) has been explored. You can check out some of the research based on this data ont the project's page.
 
 [{{< awesome fas fa-laptop-code >}} Python Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/data_exploration_case_py.ipynb)
 [{{< awesome fas fa-laptop-code >}} R Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/EDA_case_policing_R.ipynb)
