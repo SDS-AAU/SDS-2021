@@ -14,11 +14,13 @@ In this workshop we are going to work with the [Open Policing Dataset](https://o
 
 ### Schedule for the workshop
 
+| Time        | Activity                                                              |
+|-------------|-----------------------------------------------------------------------|
 | 9:10-9:45   | Work in groups replicating the notebooks with some level of variation |
 | 10:00-10:15 | Identify interesting questions (all together in class)                |
 | 10:15-11:00 | Solve these questions                                                 |
 | 11:10-11:45 | Discuss solutions R/Py split                                          |
-| 11:45-12:00 | Hand out Peergrade assignment                                         |
+| 11:45-12:00 | Hand out Peergrade assignment                                         |                                    |
 
 
 
