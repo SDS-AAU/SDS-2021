@@ -7,17 +7,17 @@
 <meta name=author content="Roman Jurowetzki & Daniel Hain">
 <link rel=icon href=/SDS-2021/images/favicon.png type=image/png>
 <title>Assignment 1 - Digital Nomads :: Social Data Science 2021</title>
-<link href=/SDS-2021/css/nucleus.css?1631097373 rel=stylesheet>
-<link href=/SDS-2021/css/fontawesome-all.min.css?1631097373 rel=stylesheet>
-<link href=/SDS-2021/css/hybrid.css?1631097373 rel=stylesheet>
-<link href=/SDS-2021/css/featherlight.min.css?1631097373 rel=stylesheet>
-<link href=/SDS-2021/css/perfect-scrollbar.min.css?1631097373 rel=stylesheet>
-<link href=/SDS-2021/css/auto-complete.css?1631097373 rel=stylesheet>
-<link href=/SDS-2021/css/atom-one-dark-reasonable.css?1631097373 rel=stylesheet>
-<link href=/SDS-2021/css/theme.css?1631097373 rel=stylesheet>
-<link href=/SDS-2021/css/tabs.css?1631097373 rel=stylesheet>
-<link href=/SDS-2021/css/hugo-theme.css?1631097373 rel=stylesheet>
-<script src=/SDS-2021/js/jquery-3.3.1.min.js?1631097373></script>
+<link href=/SDS-2021/css/nucleus.css?1631097508 rel=stylesheet>
+<link href=/SDS-2021/css/fontawesome-all.min.css?1631097508 rel=stylesheet>
+<link href=/SDS-2021/css/hybrid.css?1631097508 rel=stylesheet>
+<link href=/SDS-2021/css/featherlight.min.css?1631097508 rel=stylesheet>
+<link href=/SDS-2021/css/perfect-scrollbar.min.css?1631097508 rel=stylesheet>
+<link href=/SDS-2021/css/auto-complete.css?1631097508 rel=stylesheet>
+<link href=/SDS-2021/css/atom-one-dark-reasonable.css?1631097508 rel=stylesheet>
+<link href=/SDS-2021/css/theme.css?1631097508 rel=stylesheet>
+<link href=/SDS-2021/css/tabs.css?1631097508 rel=stylesheet>
+<link href=/SDS-2021/css/hugo-theme.css?1631097508 rel=stylesheet>
+<script src=/SDS-2021/js/jquery-3.3.1.min.js?1631097508></script>
 <style>:root #header+#content>#left>#rlblock_left{display:none!important}</style>
 </head>
 <body data-url=/SDS-2021/m1/00_assignments/assignment1/>
@@ -34,10 +34,10 @@ Social Data Science 2021
 <input data-search-input id=search-by type=search placeholder=Search...>
 <span data-search-clear><i class="fas fa-times"></i></span>
 </div>
-<script type=text/javascript src=/SDS-2021/js/lunr.min.js?1631097373></script>
-<script type=text/javascript src=/SDS-2021/js/auto-complete.js?1631097373></script>
+<script type=text/javascript src=/SDS-2021/js/lunr.min.js?1631097508></script>
+<script type=text/javascript src=/SDS-2021/js/auto-complete.js?1631097508></script>
 <script type=text/javascript>var baseurl="https://sds-aau.github.io/SDS-2021/"</script>
-<script type=text/javascript src=/SDS-2021/js/search.js?1631097373></script>
+<script type=text/javascript src=/SDS-2021/js/search.js?1631097508></script>
 </div>
 <div class=highlightable>
 <ul class=topics>
@@ -214,10 +214,10 @@ Your solution approach is more important than the results obtained! Comment your
 <ol>
 <li>
 <p><strong>Preprocessing</strong></p>
-<p>a. Trips: transform dates into timestamps (note: in Python, you will have to &lsquo;coerce&rsquo; errors for faulty dates)</p>
-<p>b. Calculate trip duration in days (you can use loops, list comprehensions or map-lambda-functions (python) to create a column that holds the numerical value of the day. You can also use the &ldquo;datetime&rdquo; package.)</p>
-<p>c. Filter extreme (fake?) observations for durations as well as dates - start and end (trips that last 234565 days / are in the 17th or 23rd century) The minimum duration of a trip is 1 day! Hint: use percentiles/quantiles to set boundaries for extreme values - between 1 and 97, calculate and store the boundaries before subsetting. Rhint: Use percent_rank(as.numeric(variable)) to create percentiles</p>
-<p>d. Join the countrylist data to the trips data-frame using the countrycode as a key e. [Only for python users ] Set DateTime index as the start date of a trip</p>
+<p>a. Trips: transform dates into timestamps (note: in Python, you will have to <code>coerce</code> errors for faulty dates)</p>
+<p>b. Calculate trip duration in days (you can use loops, list comprehensions or map-lambda-functions (python) to create a column that holds the numerical value of the day. You can also use the <code>datetime</code> package.)</p>
+<p>c. Filter extreme (fake?) observations for durations as well as dates - start and end (trips that last 234565 days / are in the 17th or 23rd century) The minimum duration of a trip is 1 day! Hint: use percentiles/quantiles to set boundaries for extreme values - between 1 and 97, calculate and store the boundaries before subsetting. Rhint: Use <code>percent_rank(as.numeric(variable))</code> to create percentiles</p>
+<p>d. Join the countrylist data to the trips data-frame using the countrycode as a key e. [Only for python users ] Set <code>DateTime index</code> as the start date of a trip</p>
 </li>
 <li>
 <p><strong>People</strong></p>
@@ -231,7 +231,7 @@ Your solution approach is more important than the results obtained! Comment your
 <p>b. Which region received the highest number of trips in 2017? Use the start of trips as a time reference.</p>
 <p>c. Which country in “Western Europe” did travelers spent least time? – Provide visualization</p>
 <p>d. Do nomad Startup Founders tend to have shorter or longer trips on average?</p>
-<p>e. visualize over-time median trip duration overall (bonus: and split by world-region) The plot will look weird ^^. PyHint: Resample by week (‘W’) and calculate the size of observations. RHint: Use the floor_date function to reset dates by week.</p>
+<p>e. visualize over-time median trip duration overall (bonus: and split by world-region) The plot will look weird ^^. PyHint: Resample by week (‘W’) and calculate the size of observations. RHint: Use the <code>floor_date</code> function to reset dates by week.</p>
 </li>
 </ol>
 <footer class=footline>
@@ -246,17 +246,17 @@ Your solution approach is more important than the results obtained! Comment your
 <div style=left:-1000px;overflow:scroll;position:absolute;top:-1000px;border:none;box-sizing:content-box;height:200px;margin:0;padding:0;width:200px>
 <div style=border:none;box-sizing:content-box;height:200px;margin:0;padding:0;width:200px></div>
 </div>
-<script src=/SDS-2021/js/clipboard.min.js?1631097373></script>
-<script src=/SDS-2021/js/perfect-scrollbar.min.js?1631097373></script>
-<script src=/SDS-2021/js/perfect-scrollbar.jquery.min.js?1631097373></script>
-<script src=/SDS-2021/js/jquery.sticky.js?1631097373></script>
-<script src=/SDS-2021/js/featherlight.min.js?1631097373></script>
-<script src=/SDS-2021/js/highlight.pack.js?1631097373></script>
+<script src=/SDS-2021/js/clipboard.min.js?1631097508></script>
+<script src=/SDS-2021/js/perfect-scrollbar.min.js?1631097508></script>
+<script src=/SDS-2021/js/perfect-scrollbar.jquery.min.js?1631097508></script>
+<script src=/SDS-2021/js/jquery.sticky.js?1631097508></script>
+<script src=/SDS-2021/js/featherlight.min.js?1631097508></script>
+<script src=/SDS-2021/js/highlight.pack.js?1631097508></script>
 <script>hljs.initHighlightingOnLoad()</script>
-<script src=/SDS-2021/js/modernizr.custom-3.6.0.js?1631097373></script>
-<script src=/SDS-2021/js/learn.js?1631097373></script>
-<script src=/SDS-2021/js/hugo-learn.js?1631097373></script>
-<script src=/SDS-2021/mermaid/mermaid.js?1631097373></script>
+<script src=/SDS-2021/js/modernizr.custom-3.6.0.js?1631097508></script>
+<script src=/SDS-2021/js/learn.js?1631097508></script>
+<script src=/SDS-2021/js/hugo-learn.js?1631097508></script>
+<script src=/SDS-2021/mermaid/mermaid.js?1631097508></script>
 <script>mermaid.initialize({startOnLoad:!0})</script>
 <script>(function(a,e,f,g,b,c,d){a.GoogleAnalyticsObject=b,a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)},a[b].l=1*new Date,c=e.createElement(f),d=e.getElementsByTagName(f)[0],c.async=1,c.src=g,d.parentNode.insertBefore(c,d)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga'),ga('create','UA-105947713-1','auto'),ga('send','pageview')</script>
 </body>
