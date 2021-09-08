@@ -6,7 +6,7 @@
 <meta name=description content="Social Data Science 2021">
 <meta name=author content="Roman Jurowetzki & Daniel Hain">
 <link rel=icon href=/SDS-2021/images/favicon.png type=image/png>
-<title>Applied Data Science and Machine Learning :: Social Data Science 2021</title>
+<title>Assignment 1 - Digital Nomads :: Social Data Science 2021</title>
 <link href=/SDS-2021/css/nucleus.css?1631097373 rel=stylesheet>
 <link href=/SDS-2021/css/fontawesome-all.min.css?1631097373 rel=stylesheet>
 <link href=/SDS-2021/css/hybrid.css?1631097373 rel=stylesheet>
@@ -20,7 +20,7 @@
 <script src=/SDS-2021/js/jquery-3.3.1.min.js?1631097373></script>
 <style>:root #header+#content>#left>#rlblock_left{display:none!important}</style>
 </head>
-<body data-url=/SDS-2021/m1/>
+<body data-url=/SDS-2021/m1/00_assignments/assignment1/>
 <nav id=sidebar class=showVisitedLinks>
 <div id=header-wrapper>
 <div id=header>
@@ -80,14 +80,13 @@ Semester Project Requirements
 </ul>
 </li>
 <li data-nav-id=/SDS-2021/m1/ title="Applied Data Science and Machine Learning" class="dd-item
-parent
-active">
+parent">
 <a href=/SDS-2021/m1/>
 <b>1. </b>Applied Data Science and Machine Learning
 <i class="fas fa-check read-icon"></i>
 </a>
 <ul>
-<li data-nav-id=/SDS-2021/m1/00_assignments/assignment1/ title="Assignment 1 - Digital Nomads" class=dd-item>
+<li data-nav-id=/SDS-2021/m1/00_assignments/assignment1/ title="Assignment 1 - Digital Nomads" class="dd-item active">
 <a href=/SDS-2021/m1/00_assignments/assignment1/>
 Assignment 1 - Digital Nomads
 <i class="fas fa-check read-icon"></i>
@@ -181,20 +180,9 @@ Basics Data Visualization
 <i class="fas fa-bars"></i>
 </a>
 </span>
-<span id=toc-menu><i class="fas fa-list-alt"></i></span>
 <span class=links>
-<a href=/SDS-2021/>Social Data Science 2021</a> > Applied Data Science and Machine Learning
+<a href=/SDS-2021/>Social Data Science 2021</a> > <a href=/SDS-2021/m1/>Applied Data Science and Machine Learning</a> > Assignment 1 - Digital Nomads
 </span>
-</div>
-<div class=progress>
-<div class=wrapper>
-<nav id=TableOfContents>
-<ul>
-<li><a href=#m1---applied-data-science-and-machine-learning>M1 - Applied Data Science and Machine Learning</a></li>
-<li><a href=#content-by-week-for-this-module>Content by week for this module</a></li>
-</ul>
-</nav>
-</div>
 </div>
 </div>
 </div>
@@ -202,101 +190,57 @@ Basics Data Visualization
 </div>
 <div id=body-inner>
 <h1>
-Applied Data Science and Machine Learning
+Assignment 1 - Digital Nomads
 </h1>
-<h2 id=m1---applied-data-science-and-machine-learning>M1 - Applied Data Science and Machine Learning</h2>
-<p>This module provides a condensed introduction to the “Data Science Pipeline”, introducing students to methods, techniques, and workflows in applied data analytics and machine learning, including data acquisition, preparation, analysis, visualization, and communication.</p>
-<h2 id=content-by-week-for-this-module>Content by week for this module</h2>
-<div class="notices note"><p>Click on the <strong>to do</strong> for the week to see what you should do to keep up with the module</p>
-</div>
+<p>You are given 2 datasets from <a href=https://nomadlist.com/ target=_blank>https://nomadlist.com/</a> - A community page for remote workers worldwide. Further, you are provided with a countries list, a dataset containing information on countries, regions and countrycodes.</p>
 <ul>
 <li>
-<p>W 35: Introduction & landing
-<div class=expand>
-<div class=expand-label style=cursor:pointer onclick="$h=$(this),$h.next('div').slideToggle(100,function(){$h.children('i').attr('class',function(){return $h.next('div').is(':visible')?'fas fa-chevron-down':'fas fa-chevron-right'})})">
-<i style=font-size:x-small class="fas fa-chevron-right"></i>
-<span>
-Weekly to do
-</span>
-</div>
-<div class=expand-content style=display:none>
-<ul>
-<li><input checked disabled type=checkbox> <strong>Introduction to R & Python</strong> (Datacamp, both necessary if no prior experience)
-<ul>
-<li><a href=https://learn.datacamp.com/courses/intro-to-python-for-data-science target=_blank>Intro to Python</a> and/or <a href=https://learn.datacamp.com/courses/free-introduction-to-r target=_blank>R</a></li>
-<li>[Intro to <a href=https://learn.datacamp.com/courses/free-introduction-to-r target=_blank>R</a></li>
-</ul>
-</li>
-<li><input checked disabled type=checkbox> <strong>Statistics Refresher</strong> (Datacamp, recommended if no prior statistics classes, choose either R or Python)
-<ul>
-<li>Python
-<ul>
-<li><a href=https://learn.datacamp.com/courses/statistical-thinking-in-python-part-1 target=_blank>Statistical Thinking 1</a></li>
-<li>[Statistical Thinking <a href=https://learn.datacamp.com/courses/statistical-thinking-in-python-part-2 target=_blank>2</a></li>
-<li><a href=https://learn.datacamp.com/courses/introduction-to-linear-modeling-in-python target=_blank>Intro to linear modelling</a></li>
-</ul>
-</li>
-<li>R:
-<ul>
-<li><a href=https://learn.datacamp.com/courses/introduction-to-data-in-r target=_blank>Introduction to data in R</a></li>
-<li><a href=https://learn.datacamp.com/courses/foundations-of-probability-in-r target=_blank>Foundation of probability</a>;</li>
-<li><a href=https://learn.datacamp.com/courses/correlation-and-regression-in-r target=_blank>Correlation &amp;amp; regression</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><input checked disabled type=checkbox> <strong>Course Material</strong> (Watch videos, study/run notebooks, solve provided exercises, optimally study suggested further material)
-<ul>
-<li><a href=/SDS-2021/m1/01_warmup/>Warmup</a></li>
-<li><a href=/SDS-2021/m1/02_basics/01_stat_prog/>basics</a>: Theory for all, afterwards feel free to choose R or Python track</li>
-</ul>
-</li>
-</ul>
-</div>
-</div></p>
+<p><strong>Trips</strong> data: holds ~46k individual trips of travelers on the platform. <strong>URL:</strong><a href=https://sds-aau.github.io/SDS-master/M1/data/trips.csv target=_blank> https://sds-aau.github.io/SDS-master/M1/data/trips.csv</a></p>
 </li>
 <li>
-<p>W 36: Data Manipulation, Exploratory Data Analysis (EDA), Data Visualization
-<div class=expand>
-<div class=expand-label style=cursor:pointer onclick="$h=$(this),$h.next('div').slideToggle(100,function(){$h.children('i').attr('class',function(){return $h.next('div').is(':visible')?'fas fa-chevron-down':'fas fa-chevron-right'})})">
-<i style=font-size:x-small class="fas fa-chevron-right"></i>
-<span>
-Weekly to do
-</span>
+<p><strong>People</strong> data: contains some personal information on 4k travelers <strong>URL:<a href=https://sds-aau.github.io/SDS-master/M1/data/people.csv target=_blank> https://sds-aau.github.io/SDS-master/M1/data/people.csv</a></strong></p>
+</li>
+<li>
+<p><strong>Country</strong> data: Holds countrycodes, contrynames and region-associations <strong>URL:<a href=https://sds-aau.github.io/SDS-master/M1/data/countrylist.csv target=_blank> https://sds-aau.github.io/SDS-master/M1/data/countrylist.csv</a></strong></p>
+</li>
+</ul>
+<p>Use the pandas read csv function to read the URLs into your working notebook, as shown in SDS examples.
+Your solution approach is more important than the results obtained! Comment your notebook well, explaining all the steps of your analysis. Small technical explanations can go as comments in the code. Broader explanations should be inserted as markdown cells. Remember that notebooks execute sequentially.</p>
+<p><strong>Submission as PDF (notebook and output)</strong></p>
+<div style=position:relative;padding-bottom:56.25%;height:0>
+<iframe src=https://www.loom.com/embed/9d1add222dbb4ec6a6fe91d197eaf7db frameborder=0 webkitallowfullscreen mozallowfullscreen allowfullscreen style=position:absolute;top:0;left:0;width:100%;height:100%></iframe>
 </div>
-<div class=expand-content style=display:none>
-<ul>
-<li><input checked disabled type=checkbox> <strong>Continue with the Course material</strong> (Datacamp, both necessary if no prior experience)
-<ul>
-<li><a href=/SDS-2021/m1/02_basics/01_stat_prog/>Statistical Programming</a></li>
-<li><a href=/SDS-2021/m1/02_basics/02_data_manipulation/>Data Manipulation</a></li>
-<li><a href=/SDS-2021/m1/02_basics/03_data_visualization/>Data Visualization</a></li>
-</ul>
-</li>
-<li><input checked disabled type=checkbox> <strong>Datacamp Courses of your Choice</strong> (For instance Pandas or Tidyverse practice)</li>
-<li><input checked disabled type=checkbox> <strong>1st Workshop</strong></li>
-<li><input checked disabled type=checkbox> <strong>1st Peergrade Assignment</strong></li>
-</ul>
-</div>
-</div></p>
+<p><strong>Submission: Monday 13.09.2021 23:59:00. Peergrade.io (link + submission details will be available by Friday, 10.09.2021.)</strong></p>
+<ol>
+<li>
+<p><strong>Preprocessing</strong></p>
+<p>a. Trips: transform dates into timestamps (note: in Python, you will have to &lsquo;coerce&rsquo; errors for faulty dates)</p>
+<p>b. Calculate trip duration in days (you can use loops, list comprehensions or map-lambda-functions (python) to create a column that holds the numerical value of the day. You can also use the &ldquo;datetime&rdquo; package.)</p>
+<p>c. Filter extreme (fake?) observations for durations as well as dates - start and end (trips that last 234565 days / are in the 17th or 23rd century) The minimum duration of a trip is 1 day! Hint: use percentiles/quantiles to set boundaries for extreme values - between 1 and 97, calculate and store the boundaries before subsetting. Rhint: Use percent_rank(as.numeric(variable)) to create percentiles</p>
+<p>d. Join the countrylist data to the trips data-frame using the countrycode as a key e. [Only for python users ] Set DateTime index as the start date of a trip</p>
 </li>
 <li>
-<p>W 37: Unsupervised Machine Learning (UML)</p>
+<p><strong>People</strong></p>
+<p>a. How many people have a least a “High School” diploma? Hint: For this calculation remove missing value-rows or fill with “False”.</p>
+<p>b. How many “Startup Founders” have attained a “Master’s Degree”? Bonus: compared to people who don’t have a formal higher education (e.g. by using the “False” occurrences)?</p>
+<p>c. Who is the person with a Master’s Degree that has the highest number of followers? Bonus: Explore the individual further, what else can you find out?</p>
 </li>
 <li>
-<p>W 38: Supervised Machine Learning (SML)</p>
+<p><strong>Trips</strong></p>
+<p>a. Which country received the highest number of trips? – And which the lowest?</p>
+<p>b. Which region received the highest number of trips in 2017? Use the start of trips as a time reference.</p>
+<p>c. Which country in “Western Europe” did travelers spent least time? – Provide visualization</p>
+<p>d. Do nomad Startup Founders tend to have shorter or longer trips on average?</p>
+<p>e. visualize over-time median trip duration overall (bonus: and split by world-region) The plot will look weird ^^. PyHint: Resample by week (‘W’) and calculate the size of observations. RHint: Use the floor_date function to reset dates by week.</p>
 </li>
-<li>
-<p>W 39: Project work + exam</p>
-</li>
-</ul>
+</ol>
 <footer class=footline>
 </footer>
 </div>
 </div>
 <div id=navigation>
-<a class="nav nav-prev" href=/SDS-2021/info/05_requirements_project/ title="Semester Project Requirements"> <i class="fa fa-chevron-left"></i></a>
-<a class="nav nav-next" href=/SDS-2021/m1/00_assignments/assignment1/ title="Assignment 1 - Digital Nomads" style=margin-right:0><i class="fa fa-chevron-right"></i></a>
+<a class="nav nav-prev" href=/SDS-2021/m1/ title="Applied Data Science and Machine Learning"> <i class="fa fa-chevron-left"></i></a>
+<a class="nav nav-next" href=/SDS-2021/m1/00_workshops/ title=Workshops style=margin-right:0><i class="fa fa-chevron-right"></i></a>
 </div>
 </section>
 <div style=left:-1000px;overflow:scroll;position:absolute;top:-1000px;border:none;box-sizing:content-box;height:200px;margin:0;padding:0;width:200px>
