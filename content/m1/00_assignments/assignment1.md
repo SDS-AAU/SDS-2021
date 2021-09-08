@@ -29,14 +29,14 @@ Your solution approach is more important than the results obtained! Comment your
 
 1. 	**Preprocessing**
 
-    a.  Trips: transform dates into timestamps (note: in Python, you will have to 'coerce' errors for faulty dates)
+    a.  Trips: transform dates into timestamps (note: in Python, you will have to `coerce` errors for faulty dates)
 
-    b. Calculate trip duration in days (you can use loops, list comprehensions or map-lambda-functions (python) to create a column that holds the numerical value of the day. You can also use the "datetime" package.) 
+    b. Calculate trip duration in days (you can use loops, list comprehensions or map-lambda-functions (python) to create a column that holds the numerical value of the day. You can also use the `datetime` package.) 
 
-    c.  Filter extreme (fake?) observations for durations as well as dates - start and end (trips that last 234565 days / are in the 17th or 23rd century)  The minimum duration of a trip is 1 day! Hint: use percentiles/quantiles to set boundaries for extreme values - between 1 and 97, calculate and store the boundaries before subsetting. Rhint: Use percent_rank(as.numeric(variable)) to create percentiles  
+    c.  Filter extreme (fake?) observations for durations as well as dates - start and end (trips that last 234565 days / are in the 17th or 23rd century)  The minimum duration of a trip is 1 day! Hint: use percentiles/quantiles to set boundaries for extreme values - between 1 and 97, calculate and store the boundaries before subsetting. Rhint: Use `percent_rank(as.numeric(variable))` to create percentiles  
 
 
-    d. Join the countrylist data to the trips data-frame using the countrycode as a key e. [Only for python users  ] Set DateTime index as the start date of a trip                                            	 
+    d. Join the countrylist data to the trips data-frame using the countrycode as a key e. [Only for python users  ] Set `DateTime index` as the start date of a trip                                            	 
 
 
 2. 	**People**
@@ -60,7 +60,7 @@ Your solution approach is more important than the results obtained! Comment your
 
     d. Do nomad Startup Founders tend to have shorter or longer trips on average? 
 
-    e. visualize over-time median trip duration overall (bonus: and split by world-region)  The plot will look weird ^^. PyHint: Resample by week (‘W’) and calculate the size of observations. RHint: Use the floor_date function to reset dates by week. 
+    e. visualize over-time median trip duration overall (bonus: and split by world-region)  The plot will look weird ^^. PyHint: Resample by week (‘W’) and calculate the size of observations. RHint: Use the `floor_date` function to reset dates by week. 
 
 
      
