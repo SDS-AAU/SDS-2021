@@ -24,7 +24,7 @@ Your solution approach is more important than the results obtained! Comment your
 
 {{< loom 9d1add222dbb4ec6a6fe91d197eaf7db >}}
 
-**Submission: Monday 13.09.2021 23:59:00. Peergrade.io (link + submission details will be available by Friday, 10.09.2021.)**
+**Submission: Monday 13.09.2021 23:59:00. [Peergrade.io](https://app.peergrade.io/join/DDBF6Z)**
 
 
 1. 	**Preprocessing**
