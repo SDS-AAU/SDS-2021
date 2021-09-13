@@ -46,7 +46,6 @@ Click on the **to do** for the week to see what you should do to keep up with th
 {{% /expand%}}
 
 * W 37: Unsupervised Machine Learning (UML)
-
 {{%expand "Weekly to do" %}}
 - [X] **Continue with the Course material** (Datacamp, recommended but not mandatorye)
    * [Python: UML](https://learn.datacamp.com/courses/unsupervised-learning-in-python) 
