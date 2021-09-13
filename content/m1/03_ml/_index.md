@@ -1,6 +1,6 @@
 ---
 title: Basics Machine Learning (W37-38)
-weight: 3
+weight: 4
 disableToc: true
 ---
 
