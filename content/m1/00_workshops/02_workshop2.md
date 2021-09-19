@@ -47,3 +47,4 @@ Use the template from the Penguin analysis with UML and build a notebook that co
 ## In class Notebooks
 
 * R team [:::: HERE ::::](https://sds-aau.github.io/SDS-2021/workshops/2021/M1_workshop2_UML_R.nb.html)
+* Py team (coming...I know I'm late)
