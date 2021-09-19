@@ -11,8 +11,8 @@ This time you will work with Pokemon data. No data munging needed. Just old-scho
 
 **Submission as PDF (notebook and output)** 
 
-Submission will open on monday.
-<!--- **Submission: Monday 13.09.2021 23:59:00. [Peergrade.io](https://app.peergrade.io/join/DDBF6Z)** -->
+
+**Submission: Monday 20.09.2021 23:59:00. [Peergrade.io](https://app.peergrade.io/join/DDBF6Z)**
 
 ## Data
 
