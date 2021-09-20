@@ -63,6 +63,10 @@ Your solution approach is more important than the results obtained! Comment your
     e. visualize over-time median trip duration overall (bonus: and split by world-region)  The plot will look weird ^^. PyHint: Resample by week (‘W’) and calculate the size of observations. RHint: Use the `floor_date` function to reset dates by week. 
 
 
+## Solutions
+
+* R team [:::: HERE ::::](https://sds-aau.github.io/SDS-master/M1/Notebooks/assignments/assignment1_solution_r_nomads.nb.html)
+* Py team (coming...I know I'm late)
      
 
  
