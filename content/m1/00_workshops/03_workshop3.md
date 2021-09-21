@@ -42,3 +42,45 @@ We used the data in a research project some years ago and you can check out a co
 * R team [:::: HERE ::::](https://sds-aau.github.io/SDS-2021/workshops/2021/M1_workshop2_UML_R.nb.html)
 
 --->
+
+
+## Videos
+
+{{< tabs >}}
+
+{{< tab name="Joint recordings">}}
+  <h2>Intro</h2>
+  {{< panopto  "https://panopto.aau.dk/Panopto/Pages/Embed.aspx?id=d2ee432e-ec20-4b96-9291-adaa0101f008&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" >}}
+
+ <h2>Group Assignment handout</h2>
+  {{< panopto  "https://panopto.aau.dk/Panopto/Pages/Embed.aspx?id=d2ee432e-ec20-4b96-9291-adaa0101f008&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" >}}
+
+
+{{< /tab >}}
+
+
+
+{{< tab name="R Application">}}
+<div>
+
+  <h2>R: Recording</h2>
+ 
+ coming soon
+
+</div>
+{{< /tab >}}
+
+
+
+{{< tab name="Python Application">}}
+<div>
+  
+  
+  <h2>Python group recoding </h2>
+  {{< panopto "https://panopto.aau.dk/Panopto/Pages/Embed.aspx?id=81f48972-11cb-46a9-b239-adaa01020f4a&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" >}}
+</div>
+{{< /tab >}}
+
+{{< /tabs >}}
+
+

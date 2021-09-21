@@ -48,3 +48,39 @@ Use the template from the Penguin analysis with UML and build a notebook that co
 
 * R team [:::: HERE ::::](https://sds-aau.github.io/SDS-2021/workshops/2021/M1_workshop2_UML_R.nb.html)
 * Py team (coming...I know I'm late)
+
+## Videos
+
+{{< tabs >}}
+
+{{< tab name="Joint recordings">}}
+  <h2>Assignment 2 handout</h2>
+  {{< panopto  "https://panopto.aau.dk/Panopto/Pages/Embed.aspx?id=4a4c5ede-9f05-4465-80ad-ada900ea6231&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" >}}
+
+{{< /tab >}}
+
+
+
+{{< tab name="R Application">}}
+<div>
+
+  <h2>R: Recording</h2>
+ 
+ coming soon
+
+</div>
+{{< /tab >}}
+
+
+
+{{< tab name="Python Application">}}
+<div>
+  
+  
+  <h2>Python group recoding </h2>
+  {{< panopto "https://panopto.aau.dk/Panopto/Pages/Embed.aspx?id=5349ccf8-f4af-4653-a09f-ada900eab2b5&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" >}}
+</div>
+{{< /tab >}}
+
+{{< /tabs >}}
+
