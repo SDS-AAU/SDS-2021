@@ -6,18 +6,18 @@
 <meta name=description content="Social Data Science 2021">
 <meta name=author content="Roman Jurowetzki & Daniel Hain">
 <link rel=icon href=/SDS-2021/images/favicon.png type=image/png>
-<title>Workshop 3 :: Social Data Science 2021</title>
-<link href=/SDS-2021/css/nucleus.css?1632207496 rel=stylesheet>
-<link href=/SDS-2021/css/fontawesome-all.min.css?1632207496 rel=stylesheet>
-<link href=/SDS-2021/css/hybrid.css?1632207496 rel=stylesheet>
-<link href=/SDS-2021/css/featherlight.min.css?1632207496 rel=stylesheet>
-<link href=/SDS-2021/css/perfect-scrollbar.min.css?1632207496 rel=stylesheet>
-<link href=/SDS-2021/css/auto-complete.css?1632207496 rel=stylesheet>
-<link href=/SDS-2021/css/atom-one-dark-reasonable.css?1632207496 rel=stylesheet>
-<link href=/SDS-2021/css/theme.css?1632207496 rel=stylesheet>
-<link href=/SDS-2021/css/tabs.css?1632207496 rel=stylesheet>
-<link href=/SDS-2021/css/hugo-theme.css?1632207496 rel=stylesheet>
-<script src=/SDS-2021/js/jquery-3.3.1.min.js?1632207496></script>
+<title>Workshop 3: ML on insideairbnb :: Social Data Science 2021</title>
+<link href=/SDS-2021/css/nucleus.css?1632237987 rel=stylesheet>
+<link href=/SDS-2021/css/fontawesome-all.min.css?1632237987 rel=stylesheet>
+<link href=/SDS-2021/css/hybrid.css?1632237987 rel=stylesheet>
+<link href=/SDS-2021/css/featherlight.min.css?1632237987 rel=stylesheet>
+<link href=/SDS-2021/css/perfect-scrollbar.min.css?1632237987 rel=stylesheet>
+<link href=/SDS-2021/css/auto-complete.css?1632237987 rel=stylesheet>
+<link href=/SDS-2021/css/atom-one-dark-reasonable.css?1632237987 rel=stylesheet>
+<link href=/SDS-2021/css/theme.css?1632237987 rel=stylesheet>
+<link href=/SDS-2021/css/tabs.css?1632237987 rel=stylesheet>
+<link href=/SDS-2021/css/hugo-theme.css?1632237987 rel=stylesheet>
+<script src=/SDS-2021/js/jquery-3.3.1.min.js?1632237987></script>
 <style>:root #header+#content>#left>#rlblock_left{display:none!important}</style>
 </head>
 <body data-url=/SDS-2021/m1/00_workshops/03_workshop3/>
@@ -34,10 +34,10 @@ Social Data Science 2021
 <input data-search-input id=search-by type=search placeholder=Search...>
 <span data-search-clear><i class="fas fa-times"></i></span>
 </div>
-<script type=text/javascript src=/SDS-2021/js/lunr.min.js?1632207496></script>
-<script type=text/javascript src=/SDS-2021/js/auto-complete.js?1632207496></script>
+<script type=text/javascript src=/SDS-2021/js/lunr.min.js?1632237987></script>
+<script type=text/javascript src=/SDS-2021/js/auto-complete.js?1632237987></script>
 <script type=text/javascript>var baseurl="https://sds-aau.github.io/SDS-2021/"</script>
-<script type=text/javascript src=/SDS-2021/js/search.js?1632207496></script>
+<script type=text/javascript src=/SDS-2021/js/search.js?1632237987></script>
 </div>
 <div class=highlightable>
 <ul class=topics>
@@ -104,6 +104,12 @@ Assignment 2 - UML with Pokemon
 <i class="fas fa-check read-icon"></i>
 </a>
 </li>
+<li data-nav-id=/SDS-2021/m1/00_assignments/group_assignment/ title="Group Assignment" class=dd-item>
+<a href=/SDS-2021/m1/00_assignments/group_assignment/>
+Group Assignment
+<i class="fas fa-check read-icon"></i>
+</a>
+</li>
 </ul>
 </li>
 <li data-nav-id=/SDS-2021/m1/00_workshops/ title=Workshops class="dd-item
@@ -125,9 +131,9 @@ Workshop 2
 <i class="fas fa-check read-icon"></i>
 </a>
 </li>
-<li data-nav-id=/SDS-2021/m1/00_workshops/03_workshop3/ title="Workshop 3" class="dd-item active">
+<li data-nav-id=/SDS-2021/m1/00_workshops/03_workshop3/ title="Workshop 3: ML on insideairbnb" class="dd-item active">
 <a href=/SDS-2021/m1/00_workshops/03_workshop3/>
-Workshop 3
+Workshop 3: ML on insideairbnb
 <i class="fas fa-check read-icon"></i>
 </a>
 </li>
@@ -228,7 +234,7 @@ Supervised Machine Learning (SML)
 </a>
 </span>
 <span class=links>
-<a href=/SDS-2021/>Social Data Science 2021</a> > <a href=/SDS-2021/m1/>Applied Data Science and Machine Learning</a> > <a href=/SDS-2021/m1/00_workshops/>Workshops</a> > Workshop 3
+<a href=/SDS-2021/>Social Data Science 2021</a> > <a href=/SDS-2021/m1/>Applied Data Science and Machine Learning</a> > <a href=/SDS-2021/m1/00_workshops/>Workshops</a> > Workshop 3: ML on insideairbnb
 </span>
 </div>
 </div>
@@ -237,19 +243,26 @@ Supervised Machine Learning (SML)
 </div>
 <div id=body-inner>
 <h1>
-Workshop 3
+Workshop 3: ML on insideairbnb
 </h1>
 <p>In this workshop we are going to explore the <a href=http://insideairbnb.com/ target=_blank>insideairbnb</a> using supervised ML techniques.
 We used the data in a research project some years ago and you can check out a conference presentation below:</p>
 <h3 id=things-to-do>Things to do!</h3>
-<p>_ Start Up</p>
+<ul>
+<li>Start Up
 <ul>
 <li>Inspect website, choose and download relevant data</li>
 <li>Inspect the data, EDA</li>
 <li>Clean a bit if deemed necessary</li>
 <li>Choose your outcome of interest</li>
-<li>CHeck if any feature engineering necessary</li>
+<li>Check if any feature engineering necessary</li>
 </ul>
+</li>
+</ul>
+<h3 id=notebooks-from-the-workshop>Notebooks from the workshop</h3>
+<p><a href=https://colab.research.google.com/github/SDS-AAU/SDS-master/master/M1/Notebooks/workshops/M1%2821%29_W3_nb_py.ipynb target=_blank>
+<i class="fas fa-laptop-code"></i>
+Python Colab</a></p>
 <blockquote>
 </blockquote>
 <footer class=footline>
@@ -264,17 +277,17 @@ We used the data in a research project some years ago and you can check out a co
 <div style=left:-1000px;overflow:scroll;position:absolute;top:-1000px;border:none;box-sizing:content-box;height:200px;margin:0;padding:0;width:200px>
 <div style=border:none;box-sizing:content-box;height:200px;margin:0;padding:0;width:200px></div>
 </div>
-<script src=/SDS-2021/js/clipboard.min.js?1632207496></script>
-<script src=/SDS-2021/js/perfect-scrollbar.min.js?1632207496></script>
-<script src=/SDS-2021/js/perfect-scrollbar.jquery.min.js?1632207496></script>
-<script src=/SDS-2021/js/jquery.sticky.js?1632207496></script>
-<script src=/SDS-2021/js/featherlight.min.js?1632207496></script>
-<script src=/SDS-2021/js/highlight.pack.js?1632207496></script>
+<script src=/SDS-2021/js/clipboard.min.js?1632237987></script>
+<script src=/SDS-2021/js/perfect-scrollbar.min.js?1632237987></script>
+<script src=/SDS-2021/js/perfect-scrollbar.jquery.min.js?1632237987></script>
+<script src=/SDS-2021/js/jquery.sticky.js?1632237987></script>
+<script src=/SDS-2021/js/featherlight.min.js?1632237987></script>
+<script src=/SDS-2021/js/highlight.pack.js?1632237987></script>
 <script>hljs.initHighlightingOnLoad()</script>
-<script src=/SDS-2021/js/modernizr.custom-3.6.0.js?1632207496></script>
-<script src=/SDS-2021/js/learn.js?1632207496></script>
-<script src=/SDS-2021/js/hugo-learn.js?1632207496></script>
-<script src=/SDS-2021/mermaid/mermaid.js?1632207496></script>
+<script src=/SDS-2021/js/modernizr.custom-3.6.0.js?1632237987></script>
+<script src=/SDS-2021/js/learn.js?1632237987></script>
+<script src=/SDS-2021/js/hugo-learn.js?1632237987></script>
+<script src=/SDS-2021/mermaid/mermaid.js?1632237987></script>
 <script>mermaid.initialize({startOnLoad:!0})</script>
 <script>(function(a,e,f,g,b,c,d){a.GoogleAnalyticsObject=b,a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)},a[b].l=1*new Date,c=e.createElement(f),d=e.getElementsByTagName(f)[0],c.async=1,c.src=g,d.parentNode.insertBefore(c,d)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga'),ga('create','UA-105947713-1','auto'),ga('send','pageview')</script>
 </body>
