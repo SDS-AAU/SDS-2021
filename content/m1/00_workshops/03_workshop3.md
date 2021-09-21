@@ -1,6 +1,6 @@
 
 ---
-title: Workshop 3: ML on insideairbnb
+title: "Workshop 3: ML on insideairbnb"
 weight: 3
 disableToc: true
 ---
@@ -16,11 +16,14 @@ We used the data in a research project some years ago and you can check out a co
   - Inspect the data, EDA
   - Clean a bit if deemed necessary
   - Choose your outcome of interest
-  - CHeck if any feature engineering necessary
+  - Check if any feature engineering necessary
 
 ### Notebooks from the workshop
 
 [{{< awesome fas fa-laptop-code >}} Python Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/master/M1/Notebooks/workshops/M1%2821%29_W3_nb_py.ipynb)
+
+
+
 
 <!---
 ### Schedule for the workshop

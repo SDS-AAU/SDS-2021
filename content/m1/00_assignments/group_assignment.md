@@ -3,7 +3,8 @@ title: "Group Assignment"
 weight: 3
 disableToc: true
 ---
-# SDS 2021 - M1: Group Assignment
+
+## SDS 2021 - M1: Group Assignment
 
 
 ## Introduction
@@ -11,7 +12,8 @@ disableToc: true
 
 With the individual assignments, you already performed most of the steps in a typical machine learning pipeline. You **imported** some data, **cleaned** it, **explored** the variables and their relationships using summary statistics and **visualisations**. You also exercised some standard machine learning **preprocessing** procedures such as feature scaling and dealing with missing values. 
 
-You practised **unsupervised**  machine learning techniques for dimensionality reduction (e.g.  	 PCA) and clustering (e.g. KNN) to discover latent relationships between features and groupings of observations. In the final workshop and online material you finally used **supervised** machine learning for regression and classification problems, where you created models to predict an outcome of interest given some input features. 
+
+You practised **unsupervised**  machine learning techniques for dimensionality reduction (e.g. PCA) and clustering (e.g. KNN) to discover latent relationships between features and groupings of observations. In the final workshop and online material you finally used **supervised** machine learning for regression and classification problems, where you created models to predict an outcome of interest given some input features. 
 
 Now it is time to bring all these steps together and apply them to a setting that you find interesting. This should apply the following tasks. 
 
@@ -46,12 +48,10 @@ If you instead want to collect your data (e.g. scraping Twitter or other platfor
 ### Analysis pipeline
 
 
-The analysis to be carried out by you has to contain elements of data **manipulation, exploration, unsupervised **and** supervised ML.** 
+The analysis to be carried out by you has to contain elements of data **manipulation, exploration, unsupervised and supervised ML.** 
 
 
 Generally, you can combine parts from the individual assignments and use them as a template for the module assignment. Going beyond that is not required (but for sure appreciated). Below a (rather detailed) checklist to make sure you have all the pieces.  
-
-
 - Definition of a problem statement and a short outline of the implementation  
 - Description of data acquisition / how it was collected (by you or the publisher of the data)
 - Data preparation 
@@ -103,5 +103,5 @@ Instead, you should try to explain the analysis and results, emphasizing its mea
 ## Finally
 
 -   Submission deadline is **27.09** - on [https://digitaleksamen.aau.dk/](https://digitaleksamen.aau.dk/)
-- Write to the secretary about your groups and language choice
+-   Write to the secretary about your groups and language choice
 -  In case of trouble/issues/questions, please write on Teams.
