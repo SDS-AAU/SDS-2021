@@ -1,6 +1,6 @@
 
 ---
-title: Workshop 3
+title: Workshop 3: ML on insideairbnb
 weight: 3
 disableToc: true
 ---
@@ -11,7 +11,7 @@ We used the data in a research project some years ago and you can check out a co
 
 ### Things to do!
 
-_ Start Up
+- Start Up
   - Inspect website, choose and download relevant data
   - Inspect the data, EDA
   - Clean a bit if deemed necessary
