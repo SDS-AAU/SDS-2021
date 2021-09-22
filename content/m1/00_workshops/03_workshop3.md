@@ -18,9 +18,10 @@ We used the data in a research project some years ago and you can check out a co
   - Choose your outcome of interest
   - Check if any feature engineering necessary
 
-### Notebooks from the workshop
+## Notebooks from the workshop
 
-[{{< awesome fas fa-laptop-code >}} Python Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/Notebooks/workshops/M1_W3_nb_py.ipynb)
+* [{{< awesome fas fa-laptop-code >}} R HTML]((https://sds-aau.github.io/SDS-2021/workshops/2021/M1_workshop3_SML_R.nb.html)
+* [{{< awesome fas fa-laptop-code >}} Python Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/Notebooks/workshops/M1_W3_nb_py.ipynb)
 
 
 
