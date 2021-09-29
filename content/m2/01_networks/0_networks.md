@@ -9,11 +9,9 @@ disableToc: true
 
 This session introduces unsupervised machine learning (UML)
 
-<!---
 * [X] **Recommended Datacamp exercises:**
-   * [Python](xxx) 
-   * [R](xxx)
---->
+   * [Python](xxx) Comming soon
+   * [R](xxx) Comming soon
 
 {{< tabs >}}
 
