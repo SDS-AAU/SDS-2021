@@ -19,7 +19,7 @@ This session introduces unsupervised machine learning (UML)
 
 {{< tab name="Theory: Network Analysis">}}
   <h2>Video</h2>
-  {{< loom  c5c8daaf85b242cb935cae53613c23e3 >}}
+  {{< loom  307f388fbb3d4e73919250aa6eb535f0 >}}
   
   <h2>Slides</h2>  
   Use arrows keys on keyboard to navigate. Alternatively fullscreen slides <a href="https://sds-aau.github.io/SDS-master/M2/notebooks/network_analysis_theory.html" target="_blank">available here</a>
@@ -60,10 +60,10 @@ This session introduces unsupervised machine learning (UML)
   <h2>Video 1: Intro & Ecosystem</h2>
   {{< loom e2a1e501c1474b70aaa64bad5257d635>}}
   
-  <h2>Video 2: Network Measures/h2>
+  <h2>Video 2: Network Measures</h2>
   {{< loom 3556014c3e2b4fd39d675e05258f5041>}}
   
-  <h2>Video 3: Mini-Case/h2>
+  <h2>Video 3: Mini-Case</h2>
   {{< loom 75ed0b7f781a447991f28149bbe54c04>}}
   
 </div>
