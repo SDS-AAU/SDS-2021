@@ -10,9 +10,9 @@ disableToc: true
 This session introduces unsupervised machine learning (UML)
 
 * [X] **Recommended Datacamp exercises:**
-   * [Python](xxx) Comming soon
-   * [R](xxx) Comming soon
-
+   * [Introduction to network Analysis in Python](https://learn.datacamp.com/courses/introduction-to-network-analysis-in-python) 
+   * [Introduction to network Analysis in R](https://learn.datacamp.com/courses/network-analysis-in-r) 
+   
 {{< tabs >}}
 
 {{< tab name="Theory: Network Analysis">}}
