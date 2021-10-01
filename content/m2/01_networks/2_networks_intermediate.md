@@ -18,6 +18,7 @@ This session introduces to slightly more advanced concepts in network analysis
    <h3>Follow along</h3>
   <ul>
     <li> {{< awesome fas fa-laptop-code >}} <a href="https://sds-aau.github.io/SDS-master/M2/notebooks/network_analysis_application_directed.nb.html" target="_blank">HTML Notebook</a> </li> Notebook</a> </li>
+  <li> {{< awesome fas fa-laptop-code >}} <a href="https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/network_analysis_application_bipartite.ipynb" target="_blank">Colab Notebook</a> </li>
   </ul>
 
   <h2>Video 1</h2>
