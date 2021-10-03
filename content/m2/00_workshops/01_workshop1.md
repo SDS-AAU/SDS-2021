@@ -1,7 +1,7 @@
 
 ---
 title: Workshop 1: Danish Power Elites
-weight: 1
+weight: 2
 disableToc: true
 ---
 
@@ -10,7 +10,7 @@ disableToc: true
 ## Context: The Danish Power Elites
 
 
-* [Anton's PhD Thesis](https://magtelite.dk/wp-content/uploads/2015/09/Anton-Grau-Larsen-PhD-Elites-in-Denmark.pdf)
+* [Antons PhD Thesis](https://magtelite.dk/wp-content/uploads/2015/09/Anton-Grau-Larsen-PhD-Elites-in-Denmark.pdf)
 * [Brief Summary of findings (CBS)](https://magtelite.dk/wp-content/uploads/2015/09/Anton-Grau-Larsen-PhD-Elites-in-Denmark.pdf)
 * [Journal PAper in Sociology](https://journals.sagepub.com/doi/abs/10.1177/0038038512454349)
 * More to be found with googleling...
@@ -22,11 +22,6 @@ disableToc: true
 * [Magteliten website](https://magtelite.dk/data/)
 * Or, easier... on [our github](https://github.com/SDS-AAU/SDS-master/raw/master/00_data/networks/elite_den17.csv)
 
-
-# Tasks
-
-1. xxxx
-2. xxxx
 
 
 <!---
