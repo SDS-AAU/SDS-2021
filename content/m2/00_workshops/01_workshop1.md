@@ -24,7 +24,6 @@ disableToc: true
 
 
 
-<!---
 # Schedule for the workshop
 
 
@@ -33,10 +32,9 @@ disableToc: true
 | 9:10-9:30   | Indivitual/Groups work making sense of data, EDA                      |
 | 9:30-9:45   | Identify interesting questions (all together in class)                |
 | 10:00-11:00 | Solve these questions  R/Py split                                     |
-| 11:10-11:45 | Discuss solutions R/Py split                                          |
-| 11:45-12:00 | Hand out Peergrade assignment                                         |  
+| 11:10-11:30 | Discuss solutions R/Py split                                          |
+| 11:30-12:00 | Joint review, Hand out Peergrade assignment                           |  
 
---->
 
 <!---
 {{< tabs >}}
