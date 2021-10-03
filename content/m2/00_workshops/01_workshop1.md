@@ -1,13 +1,13 @@
 
 ---
-title: Workshop 1: Danish Power Elites
+title: Workshop 1 - Danish Power Elites
 weight: 2
 disableToc: true
 ---
 
-# Introduction 
+## Introduction 
 
-## Context: The Danish Power Elites
+### Context: The Danish Power Elites
 
 
 * [Antons PhD Thesis](https://magtelite.dk/wp-content/uploads/2015/09/Anton-Grau-Larsen-PhD-Elites-in-Denmark.pdf)
@@ -16,7 +16,7 @@ disableToc: true
 * More to be found with googleling...
 
 
-## Data
+### Data
 
 * [Github (R Repository)](https://github.com/antongrau/eliter)
 * [Magteliten website](https://magtelite.dk/data/)
