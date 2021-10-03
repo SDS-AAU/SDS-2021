@@ -1,7 +1,7 @@
 
 ---
 title: Workshop 1: Danish Power Elites
-weight: 2
+weight: 1
 disableToc: true
 ---
 
@@ -37,7 +37,7 @@ disableToc: true
 | 9:30-9:45   | Identify interesting questions (all together in class)                |
 | 10:00-11:00 | Solve these questions  R/Py split                                     |
 | 11:10-11:45 | Discuss solutions R/Py split                                          |
-| 11:45-12:00 | Hand out Peergrade assignment                                         |
+| 11:45-12:00 | Hand out Peergrade assignment                                         |  |
 
 
 
