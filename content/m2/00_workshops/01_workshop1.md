@@ -20,7 +20,7 @@ disableToc: true
 
 * [Github (R Repository)](https://github.com/antongrau/eliter)
 * [Magteliten website](https://magtelite.dk/data/)
-* Or, easier... on our github under `https://github.com/SDS-AAU/SDS-master/raw/master/00_data/networks/elite_den17.csv`
+* Or, easier... on our github under 'https://github.com/SDS-AAU/SDS-master/raw/master/00_data/networks/elite_den17.csv'
 
 
 # Tasks
@@ -31,7 +31,6 @@ disableToc: true
 
 # Schedule for the workshop
 
-<!---
 
 | Time        | Activity                                                              |
 |-------------|-----------------------------------------------------------------------|
@@ -39,9 +38,9 @@ disableToc: true
 | 9:30-9:45   | Identify interesting questions (all together in class)                |
 | 10:00-11:00 | Solve these questions  R/Py split                                     |
 | 11:10-11:45 | Discuss solutions R/Py split                                          |
-| 11:45-12:00 | Hand out Peergrade assignment                                         |  |
+| 11:45-12:00 | Hand out Peergrade assignment                                         |  
 
---->
+
 
 <!---
 {{< tabs >}}
