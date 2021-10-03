@@ -13,14 +13,14 @@ disableToc: true
 * [Anton's PhD Thesis](https://magtelite.dk/wp-content/uploads/2015/09/Anton-Grau-Larsen-PhD-Elites-in-Denmark.pdf)
 * [Brief Summary of findings (CBS)](https://magtelite.dk/wp-content/uploads/2015/09/Anton-Grau-Larsen-PhD-Elites-in-Denmark.pdf)
 * [Journal PAper in Sociology](https://journals.sagepub.com/doi/abs/10.1177/0038038512454349)
-* More to be found with googleling ;)
+* More to be found with googleling...
 
 
 ## Data
 
 * [Github (R Repository)](https://github.com/antongrau/eliter)
 * [Magteliten website](https://magtelite.dk/data/)
-* Or, easier... on our ithub under `https://github.com/SDS-AAU/SDS-master/raw/master/00_data/networks/elite_den17.csv`
+* Or, easier... on our github under `https://github.com/SDS-AAU/SDS-master/raw/master/00_data/networks/elite_den17.csv`
 
 
 # Tasks
@@ -31,6 +31,8 @@ disableToc: true
 
 # Schedule for the workshop
 
+<!---
+
 | Time        | Activity                                                              |
 |-------------|-----------------------------------------------------------------------|
 | 9:10-9:30   | Indivitual/Groups work making sense of data, EDA                      |
@@ -39,7 +41,7 @@ disableToc: true
 | 11:10-11:45 | Discuss solutions R/Py split                                          |
 | 11:45-12:00 | Hand out Peergrade assignment                                         |  |
 
-
+--->
 
 <!---
 {{< tabs >}}
