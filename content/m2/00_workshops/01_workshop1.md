@@ -23,6 +23,12 @@ disableToc: true
 * Or, easier... on [our github](https://github.com/SDS-AAU/SDS-master/raw/master/00_data/networks/elite_den17.csv)
 
 
+# Tasks
+
+* Who are the most central persons?
+* Communities
+* ....
+
 
 # Schedule for the workshop
 
