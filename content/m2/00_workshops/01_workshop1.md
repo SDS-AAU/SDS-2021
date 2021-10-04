@@ -42,6 +42,17 @@ disableToc: true
 | 11:30-12:00 | Joint review, Hand out Peergrade assignment                           |  
 
 
+
+<!--
+# In class notebooks
+
+[{{< awesome fas fa-laptop-code >}} Py Colab - With comments](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/exercises/M2_W1_Elites.ipynb
+)
+
+-->
+
+
+
 <!---
 {{< tabs >}}
 
