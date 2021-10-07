@@ -46,8 +46,8 @@ disableToc: true
 ## In class Notebooks
 
 * R team [:::: HERE ::::](https://sds-aau.github.io/SDS-2021/workshops/2021/M2_workshop_networks_R.nb.html)
-* Py team [::::  HERE ::::](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/exercises/M2_W1_Elites.ipynb) 
-
+* [{{< awesome fas fa-laptop-code >}} Py Colab - With comments](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/exercises/M2_W1_Elites.ipynb
+)
 
 
 <!---
