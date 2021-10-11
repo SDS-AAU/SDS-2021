@@ -79,15 +79,15 @@ Everything goes. Show us some pretty and informative plots. Choose what to plot,
 
 **Submission: Thursday 7.10.2021 23:59:00. [Peergrade.io](https://app.peergrade.io/join/DDBF6Z)**
 
-<!-- 
+
 
 ## Solutions
 
 
-* R team [:::: HERE ::::](https://sds-aau.github.io/SDS-master/M1/Notebooks/assignments/assignment1_solution_r_nomads.nb.html)
-* Py team (coming...I know I'm late)
+* R team [:::: HERE ::::](https://sds-aau.github.io/SDS-master/M2/exercises/nw_assignment_solution.nb.html)
+* Py team [:::: HERE ::::](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/Solution_M2_A1.ipynb)
      
--->
+
 
 
 
