@@ -51,6 +51,9 @@ Both datasets are in JSON format.
 
 * R team [:::: HERE ::::](https://sds-aau.github.io/SDS-2021/workshops/2021/M2_workshop_nlp_R.nb.html)
 
+* Python team [:::: HERE ::::](https://colab.research.google.com/github/SDS-AAU/SDS-2021/blob/master/static/workshops/2021/SDS21_M2W2.ipynb)
+
+
 <!---
 * [{{< awesome fas fa-laptop-code >}} Py Colab - With comments](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/exercises/M2_W1_Elites.ipynb
 )
