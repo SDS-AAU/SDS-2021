@@ -28,7 +28,7 @@ Both datasets are in JSON format.
 # Tasks
 
 * Preprocess both datasets for NLP (supervised)
-* Start by building a classification model for the confress tweets
+* Start by building a classification model for the congress tweets
 * Use a well performing model to classify new data (tweets from the presidential debate)
 * Explore the different classes
 
