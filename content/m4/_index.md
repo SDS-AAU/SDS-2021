@@ -40,4 +40,4 @@ chapter: false
 
 ## Prelimenary Groups and Topics
 
-<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=Sbrb9QbOb0msPgzxQ2HZNEwY8cZgt-lLmGA_aBUeZWxUOUJMMEQzTElGQVRMN1RLUUZRU1YzUEpHMy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+Privde your info [here](https://forms.office.com/r/n62ew1nMZc)
