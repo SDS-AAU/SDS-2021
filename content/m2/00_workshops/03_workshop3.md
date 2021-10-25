@@ -26,10 +26,13 @@ This workshop will also be a chance to explore potential topics for the upcoming
 
 * R team [:::: HERE ::::](https://sds-aau.github.io/SDS-2021/workshops/2021/M2_2021_workshop_advanced.nb.html)
 
-* Python team [:::: HERE ::::](https://colab.research.google.com/github/SDS-AAU/SDS-2021/blob/master/static/workshops/2021/xxxx) 
+* Python team [:::: HERE ::::](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/W3_job_recommender_system.ipynb) 
 
 
+{{< rawhtml >}}
 <iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/13b2b286/dark"></iframe>
+{{< /rawhtml >}}
+
 
 <!---
 * [{{< awesome fas fa-laptop-code >}} Py Colab - With comments](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/exercises/M2_W1_Elites.ipynb
