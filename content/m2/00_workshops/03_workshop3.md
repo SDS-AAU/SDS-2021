@@ -29,7 +29,7 @@ This workshop will also be a chance to explore potential topics for the upcoming
 * Python team [:::: HERE ::::](https://colab.research.google.com/github/SDS-AAU/SDS-2021/blob/master/static/workshops/2021/xxxx) 
 
 
-  {{< transistor  13b2b286/dark >}}
+{{< transistor https://share.transistor.fm/e/13b2b286/dark >}}
 
 
 <!---
