@@ -29,8 +29,7 @@ This workshop will also be a chance to explore potential topics for the upcoming
 * Python team [:::: HERE ::::](https://colab.research.google.com/github/SDS-AAU/SDS-2021/blob/master/static/workshops/2021/xxxx) 
 
 
-{{< transistor https://share.transistor.fm/e/13b2b286/dark >}}
-
+<iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/13b2b286/dark"></iframe>
 
 <!---
 * [{{< awesome fas fa-laptop-code >}} Py Colab - With comments](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/exercises/M2_W1_Elites.ipynb
