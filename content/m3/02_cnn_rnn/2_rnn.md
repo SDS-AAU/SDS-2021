@@ -2,7 +2,7 @@
 title: "Recurrent Neural Networks"
 weight: 2
 disableToc: true
-draft: false
+draft: true
 ---
 
 
