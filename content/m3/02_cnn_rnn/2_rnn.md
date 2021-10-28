@@ -29,6 +29,9 @@ This session introduces to recurrent neural networks (RNN) and Long-Short-Term M
 {{< /tab >}}
 
 {{< tab name="R Application - RNN">}}
+
+Also check Python Material
+
 <div>
    <h3>Follow along</h3>
   <ul>
