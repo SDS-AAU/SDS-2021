@@ -17,6 +17,16 @@ This session introduces to recurrent neural networks (RNN) and Long-Short-Term M
 
 {{< tabs >}}
 
+  {{< tab name="Theory - Recurrent Neural Networks">}}
+  
+  <h2>Video: Introduction CNNs</h2>
+    {{< loom  d1b775f28a194fa7a6f6c62d037a9870 >}}
+  
+  <h2>Slides</h2>  
+    Use arrows keys on keyboard to navigate. Fullscreen slides <a href="https://sds-aau.github.io/SDS-master/M3/notebooks/RNN_intro.html" target="_blank"> available here </a>
+      {{< IncludeSlides "https://sds-aau.github.io/SDS-master/M3/notebooks/RNN_intro.html" >}}
+    
+  {{< /tab >}}
 
 
 {{< tab name="R Application - RNN">}}

@@ -15,7 +15,7 @@ This session introduces to convolutional neural networks (CNN) that model spacia
 
 {{< tabs >}}
 
-{{< tab name="Theory - Neural Networks and Deep Learning">}}
+{{< tab name="Theory - CNN">}}
   <h2>Video: Introduction CNNs</h2>
   {{< loom  fc90e00255e5492986c0026f2ae8b9c6 >}}
   
