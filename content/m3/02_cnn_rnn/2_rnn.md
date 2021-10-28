@@ -2,7 +2,7 @@
 title: "Recurrent Neural Networks"
 weight: 2
 disableToc: true
-draft: true
+draft: false
 ---
 
 
@@ -32,8 +32,6 @@ This session introduces to recurrent neural networks (RNN) and Long-Short-Term M
     <li>{{< awesome fas fa-laptop-code >}} <a href="https://sds-aau.github.io/SDS-master/M3/notebooks/RNN_application_R.nb.html" target="_blank">HTML Notebook</a> </li>
 
   </ul>
-  
-  Also check Python Material
 
   <h2>Video 1: Intro RNN</h2>
   {{< loom eaf2f07b85ef498fbf7a356ad25e9ee9>}}
