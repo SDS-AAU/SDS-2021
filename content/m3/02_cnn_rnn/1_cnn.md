@@ -10,7 +10,7 @@ disableToc: true
 This session introduces to convolutional neural networks (CNN) that model spacial dependencies well, and are often used in computer vision.
 
 ## Suggested Datacamp courses
-* xxxx
+* Image Processing with Keras in Python
 
 
 {{< tabs >}}
@@ -22,6 +22,7 @@ This session introduces to convolutional neural networks (CNN) that model spacia
   <h2>Slides</h2>  
   Use arrows keys on keyboard to navigate. Fullscreen slides <a href="https://sds-aau.github.io/SDS-master/M3/slides/cnn/" target="_blank">available here</a>
   {{< IncludeSlides "https://sds-aau.github.io/SDS-master/M3/slides/cnn" >}}
+{{< /tab >}}
 
 {{< tab name="R Application - CNN">}}
 <div>
