@@ -31,6 +31,8 @@ This session introduces to recurrent neural networks (RNN) and Long-Short-Term M
 
 {{< tab name="R Application - RNN">}}
 
+Also check Python MAterial
+
 <div>
    <h3>Follow along</h3>
   <ul>
@@ -59,7 +61,7 @@ This session introduces to recurrent neural networks (RNN) and Long-Short-Term M
   <h2>Video 1: Simple Timeseries</h2>
   {{< loom ac7d5a60b72a4e5d9c7ac03c38aa6401>}}
   
-  <h2>Video 2: Transfer Learning </h2>
+  <h2>Video 2: Bi-LSTM on IMDB </h2>
   {{< loom ee51f2982a34497eafa5ae77238d72ea>}}
   
 </div>
