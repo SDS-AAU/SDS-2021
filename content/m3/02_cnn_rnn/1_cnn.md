@@ -1,64 +1,62 @@
 ---
-title: "Recurrent Neural Networks"
-weight: 2
+title: "Convolutional Neural Networks"
+weight: 1
 disableToc: true
 ---
 
 {{% notice tip %}} Use the tabs to access content. Theory part is general, R & Python application part language specific.
 {{% /notice %}}
 
-This session introduces to recurrent neural networks (RNN) and Long-Short-Term Moemory Networks (LSTM), which model sequential data well (eg. text, timeseries)
+This session introduces to convolutional neural networks (CNN) that model spacial dependencies well, and are often used in computer vision.
 
 ## Suggested Datacamp courses
-* Recurrent Neural Networks for Language Modeling in Python
+* Image Processing with Keras in Python
 
 
 {{< tabs >}}
 
-{{< tab name="Theory: Recurrent Neural Networks (RNN)"</h2>
-  {{< loom  d1b775f28a194fa7a6f6c62d037a9870 >}}
+{{< tab name="Theory - Neural Networks and Deep Learning">}}
+  <h2>Video: Introduction CNNs</h2>
+  {{< loom  fc90e00255e5492986c0026f2ae8b9c6 >}}
   
   <h2>Slides</h2>  
-  Use arrows keys on keyboard to navigate. Fullscreen slides <a href="https://sds-aau.github.io/SDS-master/M3/notebooks/RNN_intro.html" target="_blank">available here</a>
-  {{< IncludeSlides "https://sds-aau.github.io/SDS-master/M3/notebooks/RNN_intro.html" >}}
+  Use arrows keys on keyboard to navigate. Fullscreen slides <a href="https://sds-aau.github.io/SDS-master/M3/slides/cnn/" target="_blank">available here</a>
+  {{< IncludeSlides "https://sds-aau.github.io/SDS-master/M3/slides/cnn" >}}
 {{< /tab >}}
 
-{{< tab name="R Application - RNN">}}
+{{< tab name="R Application - CNN">}}
 <div>
    <h3>Follow along</h3>
   <ul>
-    <li>{{< awesome fas fa-laptop-code >}} <a href="https://sds-aau.github.io/SDS-master/M3/notebooks/RNN_application_R.nb.html" target="_blank">HTML Notebook</a> </li>
-
+    <li> Cats and Dogs Detection: {{< awesome fas fa-laptop-code >}} <a href="https://sds-aau.github.io/SDS-master/M3/notebooks/CNN_application_R.nb.html" target="_blank">HTML Notebook</a> </li>
+    <li> Transfer Learning {{< awesome fas fa-laptop-code >}} <a href="https://sds-aau.github.io/SDS-master/M3/notebooks/CNN_application_Transfer_R.nb.html" target="_blank">HTML Notebook</a> </li>
   </ul>
-  
-  Also check Python Material
 
-  <h2>Video 1: Intro RNN</h2>
-  {{< loom eaf2f07b85ef498fbf7a356ad25e9ee9>}}
+  <h2>Video 1: CNN</h2>
   
-  <h2>Video 2: IMDB Case </h2>
-  {{< loom 36ac6f7d36fa4c16b6df77dcdb2135b9>}}
+  No video available, follow the python version, which is pretty much the same workflow.
+  
 </div>
 {{< /tab >}}
 
-
-{{< tab name="Python Application - RNN">}}
+{{< tab name="Python Application - CNN">}}
 <div>
    <h3>Follow along</h3> 
   <ul>
-    <li> Simple Timeseries{{< awesome fas fa-laptop-code >}} <a href="https://nbviewer.jupyter.org/github/SDS-AAU/SDS-2020/blob/master/M3/notebooks/SimpleLSTM_timeseries.ipynb" target="_blank">Colab Notebook</a> </li>
-    <li> Bi-LSTM on IMDB {{< awesome fas fa-laptop-code >}} <a href="https://github.com/SDS-AAU/SDS-master/blob/master/M3/notebooks/bidirectional_lstm_imdb.ipynb" target="_blank">Colab Notebook</a> </li>
-
+    <li> Cats and Dogs Detection {{< awesome fas fa-laptop-code >}} <a href="https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/M3_CNN_Intro_Cats%26Dogs.ipynb" target="_blank">Colab Notebook</a> </li>
+    <li> Transfer Learning {{< awesome fas fa-laptop-code >}} <a href="https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/CNN_and_transfer_learning.ipynb" target="_blank">Colab Notebook</a> </li>
+    <li> Best practice with Fast.ai {{< awesome fas fa-laptop-code >}} <a href="https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/CNN_with_fast_ai.ipynb" target="_blank">Colab Notebook</a> </li>
   </ul>
 
-  <h2>Video 1: Simple Timeseries</h2>
-  {{< loom ac7d5a60b72a4e5d9c7ac03c38aa6401>}}
+  <h2>Video 1: Cats and Dogs Detection</h2>
+  {{< loom a1747302f2d449ae99b6b5ef06a45e37>}}
   
   <h2>Video 2: Transfer Learning </h2>
-  {{< loom ee51f2982a34497eafa5ae77238d72ea>}}
+  {{< loom 4a3a1c3742e14d719b2f8184501d9f5f>}}
   
+  <h2>Video 3: Best practice with Fast.ai</h2>
+  {{< loom 593f78200487435a827a039bfaf41310>}}
 </div>
 {{< /tab >}}
 
 {{< /tabs >}}
-

@@ -1,67 +1,64 @@
 ---
-title: "Introduction Neural Networks"
-weight: 1
+title: "Recurrent Neural Networks"
+weight: 2
 disableToc: true
+draft: false
 ---
+
 
 {{% notice tip %}} Use the tabs to access content. Theory part is general, R & Python application part language specific.
 {{% /notice %}}
 
-This session introduces to artificial neural networks (ANN) and Deep Learning (DL)
+This session introduces to recurrent neural networks (RNN) and Long-Short-Term Moemory Networks (LSTM), which model sequential data well (eg. text, timeseries)
 
 ## Suggested Datacamp courses
-* Introduction to TensorFlow in R
-* Introduction to Deep Learning in Python
+* Recurrent Neural Networks for Language Modeling in Python
 
 
 {{< tabs >}}
 
-{{< tab name="Theory: Neural Networks and Deep Learning">}}
-  <h2>Video 1: Introduction and history of ANNs</h2>
-  {{< loom  418cea49ec694fe4b42e99088bfdbb84 >}}
-  
-  <h2>Video 2: Building blocks and architecture of ANNs</h2>
-  {{< loom  9e3f85b4a3384fc7afdbae6fb2ed1451 >}}
-  
-  <h2>Video 3: Learning in ANNs</h2>
-  {{< loom  308fc2d29d6840c19abce61d8f5eec31 >}}
+{{< tab name="Theory - Recurrent Neural Networks (RNN)"</h2>
+  {{< loom  d1b775f28a194fa7a6f6c62d037a9870 >}}
   
   <h2>Slides</h2>  
-  Use arrows keys on keyboard to navigate. 
-  
-{{< IncludeSlides "https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_intro.html" >}}
-
-Fullscreen slides <a href="https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_intro.html" target="_blank">available here</a>
-
-{{< IncludeSlides "https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_learning.html" >}}
-
-Fullscreen slides <a href="https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_learning.html" target="_blank">available here</a>
+  Use arrows keys on keyboard to navigate. Fullscreen slides <a href="https://sds-aau.github.io/SDS-master/M3/notebooks/RNN_intro.html" target="_blank">available here</a>
+  {{< IncludeSlides "https://sds-aau.github.io/SDS-master/M3/notebooks/RNN_intro.html" >}}
 {{< /tab >}}
 
-{{< tab name="R Application - Neural Networks">}}
+{{< tab name="R Application - RNN">}}
 <div>
    <h3>Follow along</h3>
   <ul>
-    <li> {{< awesome fas fa-laptop-code >}} <a href="https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_application_R.nb.html" target="_blank">HTML Notebook</a> </li>
+    <li>{{< awesome fas fa-laptop-code >}} <a href="https://sds-aau.github.io/SDS-master/M3/notebooks/RNN_application_R.nb.html" target="_blank">HTML Notebook</a> </li>
+
   </ul>
+  
+  Also check Python Material
 
-  <h2>Video 1: Images and Penguins</h2>
-  {{< loom b84e8e5228034031b0febe40a01f5e22 >}}
-
-  <h2>Video 2: Details and Tabular Data Example</h2>
-  {{< loom 0b4e1a4d456e46388eb2afd30be369fd >}}  
+  <h2>Video 1: Intro RNN</h2>
+  {{< loom eaf2f07b85ef498fbf7a356ad25e9ee9>}}
+  
+  <h2>Video 2: IMDB Case </h2>
+  {{< loom 36ac6f7d36fa4c16b6df77dcdb2135b9>}}
 </div>
 {{< /tab >}}
 
-{{< tab name="Python Application - Neural Networks">}}
+
+{{< tab name="Python Application - RNN">}}
 <div>
    <h3>Follow along</h3> 
   <ul>
-    <li> {{< awesome fas fa-laptop-code >}} <a href="https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/M3_ANN_Python_Intro.ipynb" target="_blank">Colab Notebook</a> </li>
+    <li> Simple Timeseries{{< awesome fas fa-laptop-code >}} <a href="https://nbviewer.jupyter.org/github/SDS-AAU/SDS-2020/blob/master/M3/notebooks/SimpleLSTM_timeseries.ipynb" target="_blank">Colab Notebook</a> </li>
+    <li> Bi-LSTM on IMDB {{< awesome fas fa-laptop-code >}} <a href="https://github.com/SDS-AAU/SDS-master/blob/master/M3/notebooks/bidirectional_lstm_imdb.ipynb" target="_blank">Colab Notebook</a> </li>
+
   </ul>
 
-  <h2>Video 1: Penguin Multiclass prediction</h2>
-  {{< loom cab10cb936294618a43fce5e8e30a51c>}}
+  <h2>Video 1: Simple Timeseries</h2>
+  {{< loom ac7d5a60b72a4e5d9c7ac03c38aa6401>}}
+  
+  <h2>Video 2: Transfer Learning </h2>
+  {{< loom ee51f2982a34497eafa5ae77238d72ea>}}
+  
 </div>
 {{< /tab >}}
 
