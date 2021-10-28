@@ -7,17 +7,17 @@
 <meta name=author content="Roman Jurowetzki & Daniel Hain">
 <link rel=icon href=/SDS-2021/images/favicon.png type=image/png>
 <title>Convolutional Neural Networks :: Social Data Science 2021</title>
-<link href=/SDS-2021/css/nucleus.css?1635408535 rel=stylesheet>
-<link href=/SDS-2021/css/fontawesome-all.min.css?1635408535 rel=stylesheet>
-<link href=/SDS-2021/css/hybrid.css?1635408535 rel=stylesheet>
-<link href=/SDS-2021/css/featherlight.min.css?1635408535 rel=stylesheet>
-<link href=/SDS-2021/css/perfect-scrollbar.min.css?1635408535 rel=stylesheet>
-<link href=/SDS-2021/css/auto-complete.css?1635408535 rel=stylesheet>
-<link href=/SDS-2021/css/atom-one-dark-reasonable.css?1635408535 rel=stylesheet>
-<link href=/SDS-2021/css/theme.css?1635408535 rel=stylesheet>
-<link href=/SDS-2021/css/tabs.css?1635408535 rel=stylesheet>
-<link href=/SDS-2021/css/hugo-theme.css?1635408535 rel=stylesheet>
-<script src=/SDS-2021/js/jquery-3.3.1.min.js?1635408535></script>
+<link href=/SDS-2021/css/nucleus.css?1635408800 rel=stylesheet>
+<link href=/SDS-2021/css/fontawesome-all.min.css?1635408800 rel=stylesheet>
+<link href=/SDS-2021/css/hybrid.css?1635408800 rel=stylesheet>
+<link href=/SDS-2021/css/featherlight.min.css?1635408800 rel=stylesheet>
+<link href=/SDS-2021/css/perfect-scrollbar.min.css?1635408800 rel=stylesheet>
+<link href=/SDS-2021/css/auto-complete.css?1635408800 rel=stylesheet>
+<link href=/SDS-2021/css/atom-one-dark-reasonable.css?1635408800 rel=stylesheet>
+<link href=/SDS-2021/css/theme.css?1635408800 rel=stylesheet>
+<link href=/SDS-2021/css/tabs.css?1635408800 rel=stylesheet>
+<link href=/SDS-2021/css/hugo-theme.css?1635408800 rel=stylesheet>
+<script src=/SDS-2021/js/jquery-3.3.1.min.js?1635408800></script>
 <style>:root #header+#content>#left>#rlblock_left{display:none!important}</style>
 </head>
 <body data-url=/SDS-2021/m3/02_cnn_rnn/1_cnn/>
@@ -34,10 +34,10 @@ Social Data Science 2021
 <input data-search-input id=search-by type=search placeholder=Search...>
 <span data-search-clear><i class="fas fa-times"></i></span>
 </div>
-<script type=text/javascript src=/SDS-2021/js/lunr.min.js?1635408535></script>
-<script type=text/javascript src=/SDS-2021/js/auto-complete.js?1635408535></script>
+<script type=text/javascript src=/SDS-2021/js/lunr.min.js?1635408800></script>
+<script type=text/javascript src=/SDS-2021/js/auto-complete.js?1635408800></script>
 <script type=text/javascript>var baseurl="https://sds-aau.github.io/SDS-2021/"</script>
-<script type=text/javascript src=/SDS-2021/js/search.js?1635408535></script>
+<script type=text/javascript src=/SDS-2021/js/search.js?1635408800></script>
 </div>
 <div class=highlightable>
 <ul class=topics>
@@ -410,11 +410,13 @@ Convolutional Neural Networks
 <p>This session introduces to convolutional neural networks (CNN) that model spacial dependencies well, and are often used in computer vision.</p>
 <h2 id=suggested-datacamp-courses>Suggested Datacamp courses</h2>
 <ul>
-<li>xxxx</li>
+<li>Image Processing with Keras in Python</li>
 </ul>
 <div class=tab-panel>
 <div class=tab-nav>
 <button data-tab-item="Theory: Neural Networks and Deep Learning" data-tab-group=default class="tab-nav-button btn active" onclick="switchTab('default','Theory: Neural Networks and Deep Learning')">Theory: Neural Networks and Deep Learning</button>
+<button data-tab-item="R Application - CNN" data-tab-group=default class="tab-nav-button btn" onclick="switchTab('default','R Application - CNN')">R Application - CNN</button>
+<button data-tab-item="Python Application - CNN" data-tab-group=default class="tab-nav-button btn" onclick="switchTab('default','Python Application - CNN')">Python Application - CNN</button>
 </div>
 <div class=tab-content>
 <div data-tab-item="Theory: Neural Networks and Deep Learning" data-tab-group=default class="tab-item active">
@@ -426,6 +428,49 @@ Convolutional Neural Networks
 Use arrows keys on keyboard to navigate. Fullscreen slides <a href=https://sds-aau.github.io/SDS-master/M3/slides/cnn/ target=_blank>available here</a>
 <div style=position:relative;padding-bottom:56.25%;height:0>
 <iframe src=https://sds-aau.github.io/SDS-master/M3/slides/cnn frameborder=0 webkitallowfullscreen mozallowfullscreen allowfullscreen style=position:absolute;top:0;left:0;width:100%;height:115%></iframe>
+</div>
+</div>
+<div data-tab-item="R Application - CNN" data-tab-group=default class=tab-item>
+<div>
+<h3>Follow along</h3>
+<ul>
+<li> Cats and Dogs Detection:
+<i class="fas fa-laptop-code"></i>
+<a href=https://sds-aau.github.io/SDS-master/M3/notebooks/CNN_application_R.nb.html target=_blank>HTML Notebook</a> </li>
+<li> Transfer Learning
+<i class="fas fa-laptop-code"></i>
+<a href=https://sds-aau.github.io/SDS-master/M3/notebooks/CNN_application_Transfer_R.nb.html target=_blank>HTML Notebook</a> </li>
+</ul>
+<h2>Video 1: CNN</h2>
+No video availble, follow the python version, which is pretty much the same workflow.
+</div>
+</div>
+<div data-tab-item="Python Application - CNN" data-tab-group=default class=tab-item>
+<div>
+<h3>Follow along</h3>
+<ul>
+<li> Cats and Dogs Detection
+<i class="fas fa-laptop-code"></i>
+<a href=https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/M3_CNN_Intro_Cats%26Dogs.ipynb target=_blank>Colab Notebook</a> </li>
+<li> Transfer Learning
+<i class="fas fa-laptop-code"></i>
+<a href=https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/CNN_and_transfer_learning.ipynb target=_blank>Colab Notebook</a> </li>
+<li> Best practice with Fast.ai
+<i class="fas fa-laptop-code"></i>
+<a href=https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/CNN_with_fast_ai.ipynb target=_blank>Colab Notebook</a> </li>
+</ul>
+<h2>Video 1: Cats and Dogs Detection</h2>
+<div style=position:relative;padding-bottom:56.25%;height:0>
+<iframe src=https://www.loom.com/embed/a1747302f2d449ae99b6b5ef06a45e37 frameborder=0 webkitallowfullscreen mozallowfullscreen allowfullscreen style=position:absolute;top:0;left:0;width:100%;height:100%></iframe>
+</div>
+<h2>Video 2: Transfer Learning </h2>
+<div style=position:relative;padding-bottom:56.25%;height:0>
+<iframe src=https://www.loom.com/embed/4a3a1c3742e14d719b2f8184501d9f5f frameborder=0 webkitallowfullscreen mozallowfullscreen allowfullscreen style=position:absolute;top:0;left:0;width:100%;height:100%></iframe>
+</div>
+<h2>Video 3: Best practice with Fast.ai</h2>
+<div style=position:relative;padding-bottom:56.25%;height:0>
+<iframe src=https://www.loom.com/embed/593f78200487435a827a039bfaf41310 frameborder=0 webkitallowfullscreen mozallowfullscreen allowfullscreen style=position:absolute;top:0;left:0;width:100%;height:100%></iframe>
+</div>
 </div>
 </div>
 </div>
@@ -442,17 +487,17 @@ Use arrows keys on keyboard to navigate. Fullscreen slides <a href=https://sds-a
 <div style=left:-1000px;overflow:scroll;position:absolute;top:-1000px;border:none;box-sizing:content-box;height:200px;margin:0;padding:0;width:200px>
 <div style=border:none;box-sizing:content-box;height:200px;margin:0;padding:0;width:200px></div>
 </div>
-<script src=/SDS-2021/js/clipboard.min.js?1635408535></script>
-<script src=/SDS-2021/js/perfect-scrollbar.min.js?1635408535></script>
-<script src=/SDS-2021/js/perfect-scrollbar.jquery.min.js?1635408535></script>
-<script src=/SDS-2021/js/jquery.sticky.js?1635408535></script>
-<script src=/SDS-2021/js/featherlight.min.js?1635408535></script>
-<script src=/SDS-2021/js/highlight.pack.js?1635408535></script>
+<script src=/SDS-2021/js/clipboard.min.js?1635408800></script>
+<script src=/SDS-2021/js/perfect-scrollbar.min.js?1635408800></script>
+<script src=/SDS-2021/js/perfect-scrollbar.jquery.min.js?1635408800></script>
+<script src=/SDS-2021/js/jquery.sticky.js?1635408800></script>
+<script src=/SDS-2021/js/featherlight.min.js?1635408800></script>
+<script src=/SDS-2021/js/highlight.pack.js?1635408800></script>
 <script>hljs.initHighlightingOnLoad()</script>
-<script src=/SDS-2021/js/modernizr.custom-3.6.0.js?1635408535></script>
-<script src=/SDS-2021/js/learn.js?1635408535></script>
-<script src=/SDS-2021/js/hugo-learn.js?1635408535></script>
-<script src=/SDS-2021/mermaid/mermaid.js?1635408535></script>
+<script src=/SDS-2021/js/modernizr.custom-3.6.0.js?1635408800></script>
+<script src=/SDS-2021/js/learn.js?1635408800></script>
+<script src=/SDS-2021/js/hugo-learn.js?1635408800></script>
+<script src=/SDS-2021/mermaid/mermaid.js?1635408800></script>
 <script>mermaid.initialize({startOnLoad:!0})</script>
 <script>(function(a,e,f,g,b,c,d){a.GoogleAnalyticsObject=b,a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)},a[b].l=1*new Date,c=e.createElement(f),d=e.getElementsByTagName(f)[0],c.async=1,c.src=g,d.parentNode.insertBefore(c,d)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga'),ga('create','UA-105947713-1','auto'),ga('send','pageview')</script>
 </body>
