@@ -6,7 +6,7 @@
 <meta name=description content="Social Data Science 2021">
 <meta name=author content="Roman Jurowetzki & Daniel Hain">
 <link rel=icon href=/SDS-2021/images/favicon.png type=image/png>
-<title>Basics Statistical Programming :: Social Data Science 2021</title>
+<title>Workshop 1 - AirBnb revisited :: Social Data Science 2021</title>
 <link href=/SDS-2021/css/nucleus.css?1636404742 rel=stylesheet>
 <link href=/SDS-2021/css/fontawesome-all.min.css?1636404742 rel=stylesheet>
 <link href=/SDS-2021/css/hybrid.css?1636404742 rel=stylesheet>
@@ -20,7 +20,7 @@
 <script src=/SDS-2021/js/jquery-3.3.1.min.js?1636404742></script>
 <style>:root #header+#content>#left>#rlblock_left{display:none!important}</style>
 </head>
-<body data-url=/SDS-2021/m1/02_basics/01_stat_prog/>
+<body data-url=/SDS-2021/m3/00_workshops/01_workshop1/>
 <nav id=sidebar class=showVisitedLinks>
 <div id=header-wrapper>
 <div id=header>
@@ -79,8 +79,7 @@ Semester Project Requirements
 </li>
 </ul>
 </li>
-<li data-nav-id=/SDS-2021/m1/ title="Applied Data Science and Machine Learning" class="dd-item
-parent">
+<li data-nav-id=/SDS-2021/m1/ title="Applied Data Science and Machine Learning" class=dd-item>
 <a href=/SDS-2021/m1/>
 <b>1. </b>Applied Data Science and Machine Learning
 <i class="fas fa-check read-icon"></i>
@@ -138,14 +137,13 @@ Workshop 3: ML on insideairbnb
 </li>
 </ul>
 </li>
-<li data-nav-id=/SDS-2021/m1/02_basics/ title="Basics of Statistical Programming and Data Manipulation (W35-36)" class="dd-item
-parent">
+<li data-nav-id=/SDS-2021/m1/02_basics/ title="Basics of Statistical Programming and Data Manipulation (W35-36)" class=dd-item>
 <a href=/SDS-2021/m1/02_basics/>
 Basics of Statistical Programming and Data Manipulation (W35-36)
 <i class="fas fa-check read-icon"></i>
 </a>
 <ul>
-<li data-nav-id=/SDS-2021/m1/02_basics/01_stat_prog/ title="Basics Statistical Programming" class="dd-item active">
+<li data-nav-id=/SDS-2021/m1/02_basics/01_stat_prog/ title="Basics Statistical Programming" class=dd-item>
 <a href=/SDS-2021/m1/02_basics/01_stat_prog/>
 Basics Statistical Programming
 <i class="fas fa-check read-icon"></i>
@@ -325,19 +323,21 @@ Application: Vectorization and Topic Modelling
 </li>
 </ul>
 </li>
-<li data-nav-id=/SDS-2021/m3/ title="Deep Learning" class=dd-item>
+<li data-nav-id=/SDS-2021/m3/ title="Deep Learning" class="dd-item
+parent">
 <a href=/SDS-2021/m3/>
 <b>3. </b>Deep Learning
 <i class="fas fa-check read-icon"></i>
 </a>
 <ul>
-<li data-nav-id=/SDS-2021/m3/00_workshops/ title=Workshops class=dd-item>
+<li data-nav-id=/SDS-2021/m3/00_workshops/ title=Workshops class="dd-item
+parent">
 <a href=/SDS-2021/m3/00_workshops/>
 Workshops
 <i class="fas fa-check read-icon"></i>
 </a>
 <ul>
-<li data-nav-id=/SDS-2021/m3/00_workshops/01_workshop1/ title="Workshop 1 - AirBnb revisited" class=dd-item>
+<li data-nav-id=/SDS-2021/m3/00_workshops/01_workshop1/ title="Workshop 1 - AirBnb revisited" class="dd-item active">
 <a href=/SDS-2021/m3/00_workshops/01_workshop1/>
 Workshop 1 - AirBnb revisited
 <i class="fas fa-check read-icon"></i>
@@ -414,7 +414,7 @@ Recurrent Neural Networks
 </a>
 </span>
 <span class=links>
-<a href=/SDS-2021/>Social Data Science 2021</a> > <a href=/SDS-2021/m1/>Applied Data Science and Machine Learning</a> > <a href=/SDS-2021/m1/02_basics/>Basics of Statistical Programming and Data Manipulation (W35-36)</a> > Basics Statistical Programming
+<a href=/SDS-2021/>Social Data Science 2021</a> > <a href=/SDS-2021/m3/>Deep Learning</a> > <a href=/SDS-2021/m3/00_workshops/>Workshops</a> > Workshop 1 - AirBnb revisited
 </span>
 </div>
 </div>
@@ -423,77 +423,41 @@ Recurrent Neural Networks
 </div>
 <div id=body-inner>
 <h1>
-Basics Statistical Programming
+Workshop 1 - AirBnb revisited
 </h1>
-<div class="notices tip"><p>Use the tabs to access content. Theory part is general, R & Python application part language specific.</p>
-</div>
-<p>This session is a basic introduction to statistical programming as well as a short brush-up on data more generally. For some, this will be &ldquo;old news&rdquo;, but many will certainly benefit from reviewing this material. We start with a generall theory lecture on data structures and properties, and then dive into R and Python specific applications of statistical programming.</p>
-<div class=tab-panel>
-<div class=tab-nav>
-<button data-tab-item="Theory: Introduction to Data" data-tab-group=default class="tab-nav-button btn active" onclick="switchTab('default','Theory: Introduction to Data')">Theory: Introduction to Data</button>
-<button data-tab-item="R Application - Statistical Programming" data-tab-group=default class="tab-nav-button btn" onclick="switchTab('default','R Application - Statistical Programming')">R Application - Statistical Programming</button>
-<button data-tab-item="Python Application - Statistical Programming" data-tab-group=default class="tab-nav-button btn" onclick="switchTab('default','Python Application - Statistical Programming')">Python Application - Statistical Programming</button>
-</div>
-<div class=tab-content>
-<div data-tab-item="Theory: Introduction to Data" data-tab-group=default class="tab-item active">
-<h2>Video</h2>
-<div style=position:relative;padding-bottom:56.25%;height:0>
-<iframe src=https://www.loom.com/embed/b7d14023383643b2b1dce248ed28ee68 frameborder=0 webkitallowfullscreen mozallowfullscreen allowfullscreen style=position:absolute;top:0;left:0;width:100%;height:100%></iframe>
-</div>
-<h2>Slides</h2>
-Use arrows keys on keyboardto navigate. Alternatively fullscreen slides <a href=https://sds-aau.github.io/SDS-master/M1/notebooks/DS_basics_data.html target=_blank>available here</a>
-<div style=position:relative;padding-bottom:56.25%;height:0>
-<iframe src=https://sds-aau.github.io/SDS-master/M1/notebooks/DS_basics_data.html frameborder=0 webkitallowfullscreen mozallowfullscreen allowfullscreen style=position:absolute;top:0;left:0;width:100%;height:115%></iframe>
-</div>
-</div>
-<div data-tab-item="R Application - Statistical Programming" data-tab-group=default class=tab-item>
-<div>
-<h3>Follow along</h3>
+<h2 id=introduction>Introduction</h2>
+<h3 id=context-flashback-to-airbnb-data-that-we-used-in-workshop-3-of-m1>Context: Flashback to AirBnb Data that we used in Workshop 3 of M1</h3>
+<p>In this workshop we are going to explore the <a href=http://insideairbnb.com/ target=_blank>insideairbnb</a> using deep learning techniques.
+We used the data in a research project some years ago and you can check out a conference presentation below:</p>
+<h2 id=1-build-a-neural-net-for-price-prediction>1. Build a neural net for price prediction.</h2>
+<p>Your job is to build a feed-forward network using Keras to predict the price.
+Can you beat the performance of other models that we explored in M1 (using the same set of independent variables)? Start with a &ldquo;simpler&rdquo; baseline model using 1 2 layers only (one input layer one output layer).</p>
+<h2 id=2-tune-the-network>2. Tune the network.</h2>
+<p>Experiment with different set-ups changing e.g.:</p>
 <ul>
-<li>
-<i class="fas fa-laptop-code"></i>
-<a href=https://sds-aau.github.io/SDS-master/M1/notebooks/DS_basics_basics_R.nb.html target=_blank>HTML Notebook</a> </li>
-<li>
-<i class="fas fa-laptop-code"></i>
-<a href=https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/DS_basics_basics_R.ipynb target=_blank>Colab Notebook</a> </li>
+<li>number of neurons</li>
+<li>number of layers</li>
+<li>number of epochs and batch size</li>
+<li>activation functions (reasonable choices)</li>
+<li>optimizers and losses (again: reasonable choices)</li>
 </ul>
-<h2>Video</h2>
-<div style=position:relative;padding-bottom:56.25%;height:0>
-<iframe src=https://www.loom.com/embed/8bb0ed1ce1f244b39243cbbdca8726ed frameborder=0 webkitallowfullscreen mozallowfullscreen allowfullscreen style=position:absolute;top:0;left:0;width:100%;height:100%></iframe>
-</div>
-</div>
-</div>
-<div data-tab-item="Python Application - Statistical Programming" data-tab-group=default class=tab-item>
-<div>
-<h3>Follow along</h3>
+<p>Use the Keras documentation and community sources to identify best practices. However, do not spend hours on grid search!</p>
+<h2 id=3-prevent-overfitting>3. Prevent overfitting</h2>
+<p>This part is related to 2. Explore the training process (over the epochs). Explore and describe 2 common approaches used to prevent overfitting in deep feed-forward neural nets.</p>
+<h2 id=in-class-notebooks>In class Notebooks</h2>
 <ul>
-<li>
+<li>R team <a href=xxx>:::: HERE ::::</a></li>
+<li><a href=xxx>
 <i class="fas fa-laptop-code"></i>
-<a href=https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/notebooks/DS_basics_data_manipulation_application_py.ipynb target=_blank>Colab Notebook</a> </li>
+Py Team</a></li>
 </ul>
-<h2>Video Part 1</h2>
-<div style=position:relative;padding-bottom:56.25%;height:0>
-<iframe src=https://www.loom.com/embed/ff2dcc175bc04ad8a9778ca79e012ccd frameborder=0 webkitallowfullscreen mozallowfullscreen allowfullscreen style=position:absolute;top:0;left:0;width:100%;height:100%></iframe>
-</div>
-<h2>Video Part 2</h2>
-<div style=position:relative;padding-bottom:56.25%;height:0>
-<iframe src=https://www.loom.com/embed/29de25e65c644893a2642dc56f4b6f96 frameborder=0 webkitallowfullscreen mozallowfullscreen allowfullscreen style=position:absolute;top:0;left:0;width:100%;height:100%></iframe>
-</div>
-<h2>Video Part 3</h2>
-<div style=position:relative;padding-bottom:56.25%;height:0>
-<iframe src=https://www.loom.com/embed/d9755dd32b144a1dad11525fd5c37d34 frameborder=0 webkitallowfullscreen mozallowfullscreen allowfullscreen style=position:absolute;top:0;left:0;width:100%;height:100%></iframe>
-</div>
-</div>
-</div>
-</div>
-</div>
 <footer class=footline>
 </footer>
 </div>
 </div>
 <div id=navigation>
-<a class="nav nav-prev" href=/SDS-2021/m1/02_basics/ title="Basics of Statistical Programming and Data Manipulation (W35-36)"> <i class="fa fa-chevron-left"></i></a>
-<a class="nav nav-next" href=/SDS-2021/m1/02_basics/02_data_manipulation/ title="Basics Data Manipulation" style=margin-right:0><i class="fa fa-chevron-right"></i></a>
+<a class="nav nav-prev" href=/SDS-2021/m3/00_workshops/ title=Workshops> <i class="fa fa-chevron-left"></i></a>
+<a class="nav nav-next" href=/SDS-2021/m3/01_ann/ title="Introduction to Neural Networks" style=margin-right:0><i class="fa fa-chevron-right"></i></a>
 </div>
 </section>
 <div style=left:-1000px;overflow:scroll;position:absolute;top:-1000px;border:none;box-sizing:content-box;height:200px;margin:0;padding:0;width:200px>
