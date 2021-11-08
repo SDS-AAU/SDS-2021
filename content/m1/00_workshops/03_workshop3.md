@@ -7,7 +7,6 @@ disableToc: true
 
 
 In this workshop we are going to explore the [insideairbnb](http://insideairbnb.com/) using supervised ML techniques.
-We used the data in a research project some years ago and you can check out a conference presentation below:
 
 ### Things to do!
 
