@@ -35,14 +35,14 @@ Use the Keras documentation and community sources to identify best practices. Ho
 
 This part is related to 2. Explore the training process (over the epochs). Explore and describe 2 common approaches used to prevent overfitting in deep feed-forward neural nets.
 
-<!---
+
 ## In class Notebooks
 
-* R team [:::: HERE ::::](xxx)
+* R team [:::: HERE ::::](https://sds-aau.github.io/SDS-2021/workshops/2021//M3_workshop1_ann.nb.html)
 * [{{< awesome fas fa-laptop-code >}} Py Team](xxx)
 
 
-
+<!---
 {{< tabs >}}
 
 {{< tab name="Joint recordings">}}
