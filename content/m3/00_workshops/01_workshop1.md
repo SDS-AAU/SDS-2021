@@ -39,7 +39,7 @@ This part is related to 2. Explore the training process (over the epochs). Explo
 ## In class Notebooks
 
 * R team [:::: HERE ::::](https://sds-aau.github.io/SDS-2021/workshops/2021//M3_workshop1_ann.nb.html)
-* [{{< awesome fas fa-laptop-code >}} Py Team](xxx)
+* [{{< awesome fas fa-laptop-code >}} Py Team](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/M3_W1_AirBnb_revisited_with_Neural_Nets.ipynb)
 
 
 <!---
