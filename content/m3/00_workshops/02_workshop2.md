@@ -6,7 +6,7 @@ disableToc: true
 draft: false
 ---
 
-![](/images/tseries.png)
+![](/SDS-2021/static/images/tseries.png)
 
 ## Introduction 
 
