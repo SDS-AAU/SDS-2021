@@ -6,7 +6,7 @@ disableToc: true
 draft: false
 ---
 
-![](/SDS-2021/static/images/tseries.png)
+![](/SDS-2021/images/tseries.png)
 
 ## Introduction 
 
@@ -14,18 +14,19 @@ draft: false
 
 
 You have so far seen how RNNs are used for simle time series. In this workshop we will extend this to multi-step and simultaneusely multi-feature and multi-step situations.
+Today we are going to make some money 💸
 We will be using financial data for that. There will be no time for backtesting however.
 
 
-## 1. Build a baseline LSTM 
+### 1. Build a baseline LSTM 
 Build an LSTM net that predicts closing price changes 1 day ahead
 
 
-## 2. Extend to multi-step 
+### 2. Extend to multi-step 
 Build an LSTM net that looks n timesteps back to predict the next period
 
 
-## 3. Extend to multi-step and multi-feature
+### 3. Extend to multi-step and multi-feature
 Build an LSTM that uses several inputs (e.g. other stocks or TA features)
 
 
