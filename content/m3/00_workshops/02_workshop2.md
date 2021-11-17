@@ -36,7 +36,7 @@ Build an LSTM that uses several inputs (e.g. other stocks or TA features)
 
 * R team [:::: HERE ::::](https://sds-aau.github.io/SDS-2021/workshops/2021/SDS_M3_workshop2_lstm.nb.nb.html)
 * [{{< awesome fas fa-laptop-code >}} Py Team](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/Simple_LSTM_stock_prediction.ipynb)
-
+* [{{< awesome fas fa-video >}} Python Team - Video](https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=5839c4e0-ff75-4085-b961-ade300e65077)
 
 [^1]: NO INVESTMENT ADVICE
   The Content is for informational purposes only, you should not construe any such information or other material as legal, tax, investment, financial, or other advice. Nothing contained on our Site constitutes a solicitation, recommendation, endorsement, or offer by AAUBS or any third party service provider to buy or sell any securities or other financial instruments in this or in in any other jurisdiction in which such solicitation or offer would be unlawful under the securities laws of such jurisdiction.
