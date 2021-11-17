@@ -35,7 +35,7 @@ Build an LSTM that uses several inputs (e.g. other stocks or TA features)
 ## In class Notebooks
 
 * R team [:::: HERE ::::](https://sds-aau.github.io/SDS-2021/workshops/2021/SDS_M3_workshop2_lstm.nb.nb.html)
-* [{{< awesome fas fa-laptop-code >}} Py Team](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/xxx)
+* [{{< awesome fas fa-laptop-code >}} Py Team](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M3/notebooks/Simple_LSTM_stock_prediction.ipynb)
 
 
 [^1]: NO INVESTMENT ADVICE
