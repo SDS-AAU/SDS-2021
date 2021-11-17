@@ -2,9 +2,10 @@
 title: "M3 Assignment - Elon vs. GPT-2"
 weight: 1
 disableToc: true
-draft: true
+draft: false
 ---
 
+![](/SDS-2021/images/elon.jpg)
 
 The site [https://faketrump.ai/](https://faketrump.ai/) **WAS** an interesting example of AI-powered fake-text generation. They wrote in 2019:
 
@@ -21,7 +22,7 @@ Since then several organizations and researchers have shown that it is [possible
 Having no dataset from that projects, Roman decided to retrain GPT-2 to generate new fake Elon tweets. If they can do that, we can do that! However, it seems as if it is easier for ML models to identify our fake tweets...well...they are an AI company and probably spent more time on that...
 
 
-This assignment is not about Natural Language Processing (NLP) but about being able to deal with sequential data using deep learning. Some basic knowledge from M2 can be useful to squeeze the last 1% performance but you should be able to get great results with pure Keras. The data can be found [here](xxxx) and has the following format:
+This assignment is not about Natural Language Processing (NLP) but about being able to deal with sequential data using deep learning. Some basic knowledge from M2 can be useful to squeeze the last 1% performance but you should be able to get great results with pure Keras. The data can be found [here](https://github.com/SDS-AAU/SDS-master/raw/master/M3/assignments/find_elon.gz) and has the following format:
 
 
 <table>
@@ -39,7 +40,7 @@ This assignment is not about Natural Language Processing (NLP) but about being a
   </tr>
 </table>
 
-There are xxxx real Elon tweets and xxxx fake ones.
+There are 1577 real Elon tweets and 1577 fake ones.
 
 Having been with us for M2, you may ask: How do I go from text to numerical values that I can use in a neural model?
 You can for instance just use the “Tokenizer” that’s part of Keras. 
