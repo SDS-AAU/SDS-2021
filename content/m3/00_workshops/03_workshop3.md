@@ -16,6 +16,7 @@ In our last workshop we will be wrapping up the semester with some advanced appl
 - Autoencoders (for anomaly detection)
 - Text classification with Fast.ai and Transformers
 
+We will also demonstrate how to create and host portfolios as static sites on Github Pages.
 
 ## In class Notebooks
 
