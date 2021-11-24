@@ -24,21 +24,9 @@ Having no dataset from that projects, Roman decided to retrain GPT-2 to generate
 
 This assignment is not about Natural Language Processing (NLP) but about being able to deal with sequential data using deep learning. Some basic knowledge from M2 can be useful to squeeze the last 1% performance but you should be able to get great results with pure Keras. The data can be found [here](https://github.com/SDS-AAU/SDS-master/raw/master/M3/assignments/find_elon.gz) and has the following format:
 
-
-<table>
-  <tr>
-   <td>0
-   </td>
-   <td>1
-   </td>
-  </tr>
-  <tr>
-   <td>string
-   </td>
-   <td>boolean
-   </td>
-  </tr>
-</table>
+| tweet (0)  | real (1)   |
+|--------|---------|
+| string | boolean |
 
 There are 1577 real Elon tweets and 1577 fake ones.
 
