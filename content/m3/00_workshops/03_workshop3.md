@@ -20,7 +20,7 @@ We will also demonstrate how to create and host portfolios as static sites on Gi
 
 ## In class Notebooks
 
-* R team [:::: HERE ::::](xxx)
+* R team (autoencoder) [:::: HERE ::::](https://sds-aau.github.io/SDS-2021/workshops/2021/M3_workshop3_autoencoder.nb.html)
 * [{{< awesome fas fa-laptop-code >}} Py Team](xxx)
 
 
